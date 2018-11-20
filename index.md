@@ -1,8 +1,8 @@
-#Sharon
-[Sharon](https://firelf15.github.iosharon.html)
-[Elaine](https://firelf15.github.ioelaine.html)
-[Lynn](https://firelf15.github.iolynn.html)
-[Rachel](https://firelf15.github.iorachel.html)
+# Sharon
+[Sharon](https://firelf15.github.io/sharon.html)
+[Elaine](https://firelf15.github.io/elaine.html)
+[Lynn](https://firelf15.github.io/lynn.html)
+[Rachel](https://firelf15.github.io/rachel.html)
 
 ## Welcome to GitHub Pages
 
