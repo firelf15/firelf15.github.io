@@ -115,7 +115,7 @@
 			<stationUrl/>
 			<stationTitle></stationTitle>
 			<subHeadline>The ‘GIRL’ singer is on a fierce female hot streak</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 From Music to Margaritas Maren Morris a Collaborations Queen]]></seoHeadline>
+			<seoHeadline><![CDATA[FREQ-1647 From Music to Margaritas Maren Morris a Collaborations Queen]]></seoHeadline>
 			<coverImage>https://images.radio.com/aiu-media/MarenMorris072319-dc4df785-697e-43b9-ac69-b583e6fd9c40.jpg</coverImage>
 			<featured>true</featured>
 			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
@@ -132,6 +132,7 @@
 			<category>Country</category>
 			<category>Maren Morris</category>
 			<dc:creator>Michael Cerio</dc:creator>
+			<dc:creator>Jacquie Cadorette</dc:creator>
 			<editorialFeeds>Country</editorialFeeds>
 		</item>
 		<item>
