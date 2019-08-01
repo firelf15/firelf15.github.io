@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
-	<channel>
-		<title>Radio.com Reverse Chron Feed</title>
-		<description>Most recent content from Radio.com</description>
-		<link>https://www.radio.com</link>
-		<lastBuildDate>Tue, 23 Jul 2019 20:55:12 +0000</lastBuildDate>
-		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-		<copyright>2019</copyright>
-		<generator>Feed delivered by Clay</generator>
-		<category>Robert Mueller,Donald Trump,politics,National News,Mueller Report</category>
-		<category>Country,Maren Morris</category>
-		<category>wine,horse race,National News</category>
-		<category>Courteney Cox,Entertainment</category>
-		<category>The 1975,Alternative</category>
-		<category>NCT 127,Pop,K-Pop</category>
-		<category>Thomas Rhett,Country</category>
-		<category>NFL,Odell Beckham Jr.,Damarious Randall,Cleveland Browns,Jarvis Landry,Baker Mayfield</category>
-		<category>Alternative,Blink-182</category>
-		<category>Birthdays,National News</category>
-		<category>Vin Diesel,Joe Watts,Tilly Powell,Fast and Furious 9,Entertainment</category>
-		<category>Of Monsters and Men,alternative</category>
-		<category>Beyonce,The Lion King</category>
-		<category>Hip Hop R&amp;B,Chance The Rapper,Megan Thee Stallion</category>
-		<category>Sports,Maxim Dadashev,MGM National Harbor,Boxing</category>
-		<category>Prince Harry,Meghan Markle,Prince George,Entertainment</category>
-		<category>Shaquille O&apos;Neal</category>
-		<category>John Mayer,On Tour,Pop</category>
-		<category>Pop,Taylor Swift</category>
-		<item>
-			<title><![CDATA[ALOHOMORA What to Expect From Robert Mueller's Wednesday Hearings]]></title>
-			<link>https://www.radio.com/news/what-to-expect-from-robert-muellers-wednesday-hearings</link>
-			<pubDate>Tue, 23 Jul 2019 20:17:14 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/news/what-to-expect-from-robert-muellers-wednesday-hearings</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Robert Mueller is set to testify on Wednesday in front of the House Judiciary Committee.]]></description>
-			<content:encoded><![CDATA[  <p><a href="https://knx1070.radio.com/articles/ap-news/justice-dept-robert-mueller-dont-stray-beyond-report-russian-election-interference">Former special counsel Robert Mueller</a> will testify for the first time on Wednesday about his investigation into Russian interference during the 2016 presidential election.</p>
+  <channel>
+    <title>Radio.com Reverse Chron Feed</title>
+    <description>Most recent content from Radio.com</description>
+    <link>https://www.radio.com</link>
+    <lastBuildDate>Tue, 23 Jul 2019 20:55:12 +0000</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <copyright>2019</copyright>
+    <generator>Feed delivered by Clay</generator>
+    <category>Robert Mueller,Donald Trump,politics,National News,Mueller Report</category>
+    <category>Country,Maren Morris</category>
+    <category>wine,horse race,National News</category>
+    <category>Courteney Cox,Entertainment</category>
+    <category>The 1975,Alternative</category>
+    <category>NCT 127,Pop,K-Pop</category>
+    <category>Thomas Rhett,Country</category>
+    <category>NFL,Odell Beckham Jr.,Damarious Randall,Cleveland Browns,Jarvis Landry,Baker Mayfield</category>
+    <category>Alternative,Blink-182</category>
+    <category>Birthdays,National News</category>
+    <category>Vin Diesel,Joe Watts,Tilly Powell,Fast and Furious 9,Entertainment</category>
+    <category>Of Monsters and Men,alternative</category>
+    <category>Beyonce,The Lion King</category>
+    <category>Hip Hop R&amp;B,Chance The Rapper,Megan Thee Stallion</category>
+    <category>Sports,Maxim Dadashev,MGM National Harbor,Boxing</category>
+    <category>Prince Harry,Meghan Markle,Prince George,Entertainment</category>
+    <category>Shaquille O&apos;Neal</category>
+    <category>John Mayer,On Tour,Pop</category>
+    <category>Pop,Taylor Swift</category>
+    <item>
+      <title>
+        <![CDATA[Dumbledore What to Expect From Robert Mueller's Wednesday Hearings]]>
+      </title>
+      <link>https://www.radio.com/news/what-to-expect-from-robert-muellers-wednesday-hearings</link>
+      <pubDate>Tue, 23 Jul 2019 20:17:14 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/news/what-to-expect-from-robert-muellers-wednesday-hearings</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Robert Mueller is set to testify on Wednesday in front of the House Judiciary Committee.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><a href="https://knx1070.radio.com/articles/ap-news/justice-dept-robert-mueller-dont-stray-beyond-report-russian-election-interference">Former special counsel Robert Mueller</a> will testify for the first time on Wednesday about his investigation into Russian interference during the 2016 presidential election.</p>
   <p>The hearing will begin at 8:30 a.m. EST. <a href="https://player.radio.com/listen/station/mueller-live-testimony?_branch_match_id=640245842021691182">Listen to Mueller's live testimony here. </a></p>
   <p>Mueller will testify to Congress, answering questions about the four-month-old investigation, bringing it back into the public eye.</p>
   <p>The Justice Department instructed Mueller not to stray past his report's findings. Associate Deputy Attorney General Bradley Weinsheimer said in a <a href="https://www.documentcloud.org/documents/6209743-DOJ-letter-to-Mueller-on-limiting-testimony.html">letter </a>sent to Mueller that he should not speak about redacted material from his report, including material pertaining to pending criminal prosecutions, &quot;uncharged third-parties&quot; and &quot;executive privilege,&quot; such as &quot;presidential communications privileges,&quot; <a href="https://knx1070.radio.com/articles/ap-news/justice-dept-robert-mueller-dont-stray-beyond-report-russian-election-interference">according to the Associated Press.</a></p>
@@ -45,14 +50,18 @@
   <p>Zebley’s position as a witness at the hearing has yet to be approved, and would shake things up for both Democrats and Republicans, who have already planned their questioning around Mueller being the sole witness.</p>
   <p>Republicans sitting on the Judiciary and Intelligence Committees are likely prepared to address various anti-Trump texts sent between his team members, as well as anything that diminishes the damaging information about the President found in Mueller’s report, according to <a href="https://www.cnn.com/2019/07/23/politics/mueller-testimony-congress-things-to-watch/index.html">CNN</a>.</p>
   <p>Meanwhile, Democrats are likely prepared to focus on five major obstructions outlined in the Mueller Report – namely, his efforts in terminating Mueller’s role, and his tampering with witnesses, including campaign chairman Paul Manafort.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline></subHeadline>
-			<seoHeadline><![CDATA[QA1.64 What to Expect From Robert Mueller's Wednesday Hearings]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/RobertMueller-95081071-5f25-4968-91a1-16f8d52347dd.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline></subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 What to Expect From Robert Mueller's Wednesday Hearings]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/RobertMueller-95081071-5f25-4968-91a1-16f8d52347dd.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/RobertMueller-41c7edec-1045-44ef-a77e-a9a4c234cca5.jpg?width=800" alt="Robert Mueller">
@@ -62,23 +71,29 @@
         
         <cite class="credit">Photo credit Alex Wong/Getty Images</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Robert Mueller</category>
-			<category>Donald Trump</category>
-			<category>politics</category>
-			<category>National News</category>
-			<category>Mueller Report</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Jacquie Cadorette</dc:creator>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA From Music to Margaritas, Maren Morris Is the Queen of Collaborations]]></title>
-			<link>https://www.radio.com/music/from-music-to-margaritas-maren-morris-queen-of-collaborations</link>
-			<pubDate>Tue, 23 Jul 2019 20:09:01 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/from-music-to-margaritas-maren-morris-queen-of-collaborations</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[It’s been a busy and empowering week for Maren Morris.]]></description>
-			<content:encoded><![CDATA[  <p>You never know where <strong>Maren Morris</strong> is going to pop up next, but chances are it will be with some like-minded strong women. After spending 2018 in “The Middle”, Morris has been front and center with other powerful female performers for most of 2019.</p>
+</div>]]>
+      </lead>
+      <category>Robert Mueller</category>
+      <category>Donald Trump</category>
+      <category>politics</category>
+      <category>National News</category>
+      <category>Mueller Report</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Jacquie Cadorette</dc:creator>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix From Music to Margaritas, Maren Morris Is the Queen of Collaborations]]>
+      </title>
+      <link>https://www.radio.com/music/from-music-to-margaritas-maren-morris-queen-of-collaborations</link>
+      <pubDate>Tue, 23 Jul 2019 20:09:01 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/from-music-to-margaritas-maren-morris-queen-of-collaborations</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[It’s been a busy and empowering week for Maren Morris.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>You never know where <strong>Maren Morris</strong> is going to pop up next, but chances are it will be with some like-minded strong women. After spending 2018 in “The Middle”, Morris has been front and center with other powerful female performers for most of 2019.</p>
   <p>Morris is currently on the road with <em>GIRL: The World Tour</em>. The all-female lineup is just the beginning though. Here are a few of the wonderful woman collaborations that the singer has been a part of over the past few weeks.</p>
   <p><strong>Miranda Lambert - “Too Pretty For Prison”</strong></p>
   <p>Last week, <strong>Miranda Lambert</strong> announced that she found the perfect person to jump on her new album. Morris will contributes to the track, “Too Pretty For Prison” on the latest from Lambert, due out later this year.</p>
@@ -112,14 +127,18 @@
   <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B0MkAbSBh8G/" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/B0MkAbSBh8G/" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/B0MkAbSBh8G/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">quarterly therapy session with @kelseaballerini 😂</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/marenmorris/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Maren Morris</a> (@marenmorris) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-21T22:54:15+00:00">Jul 21, 2019 at 3:54pm PDT</time></p></div></blockquote>
 </aside>
   <p>Maren Morris returns this week to <em>GIRL: The World Tour</em>. You can find the full list of dates <a href="https://www.marenmorris.com/">here</a>.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>The ‘GIRL’ singer is on a fierce female hot streak</subHeadline>
-			<seoHeadline><![CDATA[FREQ-1647 From Music to Margaritas Maren Morris a Collaborations Queen]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/MarenMorris072319-dc4df785-697e-43b9-ac69-b583e6fd9c40.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>The ‘GIRL’ singer is on a fierce female hot streak</subHeadline>
+      <seoHeadline>
+        <![CDATA[FREQ-1647 From Music to Margaritas Maren Morris a Collaborations Queen]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/MarenMorris072319-dc4df785-697e-43b9-ac69-b583e6fd9c40.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/MarenMorris072319-7de56ad8-fc09-474e-a3cb-fc420b21e1a3.jpg?width=800" alt="Maren Morris In Concert">
@@ -129,23 +148,29 @@
         
         <cite class="credit">Photo credit <a href="https://www.gettyimages.com/search/photographer?family=editorial&amp;photographer=Nicholas+Hunt">Nicholas Hunt</a> / Staff</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Country</category>
-			<category>Maren Morris</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Michael Cerio</dc:creator>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Jacquie Cadorette</dc:creator>
-			<editorialFeeds>Country</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Woman Fixes Wine-Stained Outfit with More Wine]]></title>
-			<link>https://www.radio.com/news/woman-fixes-wine-stained-outfit-with-more-wine</link>
-			<pubDate>Tue, 23 Jul 2019 20:07:11 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/news/woman-fixes-wine-stained-outfit-with-more-wine</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[See how this woman transformed her wine-stained outfit into a fashion statement. ]]></description>
-			<content:encoded><![CDATA[  <p>Don’t cry over spilled wine, just make a new outfit!</p>
+</div>]]>
+      </lead>
+      <category>Country</category>
+      <category>Maren Morris</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Michael Cerio</dc:creator>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Jacquie Cadorette</dc:creator>
+      <editorialFeeds>Country</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Woman Fixes Wine-Stained Outfit with More Wine]]>
+      </title>
+      <link>https://www.radio.com/news/woman-fixes-wine-stained-outfit-with-more-wine</link>
+      <pubDate>Tue, 23 Jul 2019 20:07:11 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/news/woman-fixes-wine-stained-outfit-with-more-wine</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[See how this woman transformed her wine-stained outfit into a fashion statement. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>Don’t cry over spilled wine, just make a new outfit!</p>
   <p>That’s exactly what Eleanor Walton did after red wine nearly ruined her all-white jumpsuit while at a <a href="https://www.radio.com/articles/ap-news/maximum-security-appealing-kentucky-derby-wont-run-preakness">horse race</a> in England over the weekend.</p>
   <p>Enlisting the help of her good friend Mia Williamson, the two quickly sprang into action by grabbing four more glasses of wine to further stain her clothes into a more cohesive look, according to <a href="https://people.com/style/woman-saves-red-wine-stained-white-jumpsuit/">People</a>.</p>
 <aside class="component--tweet">
@@ -165,14 +190,18 @@
   <p>Despite it all, Eleanor never let the situation get the best of her.</p>
   <p>She added, “Part of me wanted to go home and change, but I was having too much fun and didn’t want to let a spill ruin my day.”</p>
   <p>Spoken like a true legend!</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline></subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Woman Fixes Wine-Stained Outfit with More Wine]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/RedWine-a3df6887-1d31-4602-b586-76ed1ba82962.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline></subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Woman Fixes Wine-Stained Outfit with More Wine]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/RedWine-a3df6887-1d31-4602-b586-76ed1ba82962.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/RedWine-9a71d401-2b00-4334-b4d3-e580d69ead05.jpg?width=800" alt="Red wine">
@@ -182,22 +211,28 @@
         
         <cite class="credit">Photo credit Getty Images</cite>
       </figcaption>
-</div>]]></lead>
-			<category>wine</category>
-			<category>horse race</category>
-			<category>National News</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Johnny Lopez</dc:creator>
-			<editorialFeeds>Trending</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Watch Courteney Cox ‘Flip It & Reverse It’ in Epic Bikini Video]]></title>
-			<link>https://www.radio.com/music/watch-courteney-cox-flip-it-and-reverse-it-in-bikini-video</link>
-			<pubDate>Tue, 23 Jul 2019 19:58:14 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/watch-courteney-cox-flip-it-and-reverse-it-in-bikini-video</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Watch Courteney Cox dive into her pool backwards in this epic Instagram video. ]]></description>
-			<content:encoded><![CDATA[  <p>A bikini is Courteney Cox’s best friend!</p>
+</div>]]>
+      </lead>
+      <category>wine</category>
+      <category>horse race</category>
+      <category>National News</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Johnny Lopez</dc:creator>
+      <editorialFeeds>Trending</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Watch Courteney Cox ‘Flip It & Reverse It’ in Epic Bikini Video]]>
+      </title>
+      <link>https://www.radio.com/music/watch-courteney-cox-flip-it-and-reverse-it-in-bikini-video</link>
+      <pubDate>Tue, 23 Jul 2019 19:58:14 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/watch-courteney-cox-flip-it-and-reverse-it-in-bikini-video</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Watch Courteney Cox dive into her pool backwards in this epic Instagram video. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>A bikini is Courteney Cox’s best friend!</p>
   <p>The 55-year-old actress beat the heat by showing off her amazing physique in a fun poolside video, reported the <a href="https://pagesix.com/2019/07/22/bikini-clad-courteney-cox-defies-gravity-in-poolside-video/">New York Post.</a></p>
   <p>Rocking a black two-piece, Cox posted the clip in reverse to make it look like she was jumping out of the pool rather than into it.</p>
 <div class="component--html-embed">
@@ -211,14 +246,18 @@
   <p>It was just last month that Cox celebrated turning 55 by having a <a href="https://www.radio.com/articles/courteney-cox-celebrates-birthday-friends-reunion">girls' night out</a> with her former co-stars Jennifer Aniston and Lisa Kudrow.</p>
   <p>The ladies and their male Must-See-TV counterparts – David Schwimmer, Matt LeBlanc and Matthew Perry – will have some more to celebrate as &quot;Friends&quot;<em> </em>turns 25 in a few weeks.</p>
   <p>While a TV reunion is not currently in the works, fans will have to settle for some coffee and <a href="https://www.radio.com/topic/pottery-barn">home furnishings</a>.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline></subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Watch Courteney Cox ‘Flip It & Reverse It’ in Bikini Video]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/CourteneyCox-d22c6bf5-0da3-44fc-b4c2-715357a1692c.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--html-embed">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline></subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Watch Courteney Cox ‘Flip It & Reverse It’ in Bikini Video]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/CourteneyCox-d22c6bf5-0da3-44fc-b4c2-715357a1692c.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--html-embed">
     <div class="html-embed__iframe-container">
       <div class="iframe-container__padded-container">
         <iframe src="//players.brightcove.net/5757251889001/SkXmVqJHX_default/index.html?videoId=6045437072001"
@@ -231,33 +270,43 @@ height="150"></iframe>
       </div>
     </div>
 </div>
-]]></lead>
-			<category>Courteney Cox</category>
-			<category>Entertainment</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Johnny Lopez</dc:creator>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA The 1975 Take Over 'The Late Late Show']]></title>
-			<link>https://www.radio.com/music/the-1975-take-over-the-late-late-show</link>
-			<pubDate>Tue, 23 Jul 2019 19:46:17 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/the-1975-take-over-the-late-late-show</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[The 1975 Take Over ‘The Late Late Show’]]></description>
-			<content:encoded><![CDATA[  <p>The music sets on late night talk shows aren’t that big, but there’s usually just enough room for the performers to do what they need to do. <strong>Matty Healy</strong> of <strong>The 1975</strong> had other ideas though during their appearance on “The Late Late Show.”</p>
+]]>
+      </lead>
+      <category>Courteney Cox</category>
+      <category>Entertainment</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Johnny Lopez</dc:creator>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix The 1975 Take Over 'The Late Late Show']]>
+      </title>
+      <link>https://www.radio.com/music/the-1975-take-over-the-late-late-show</link>
+      <pubDate>Tue, 23 Jul 2019 19:46:17 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/the-1975-take-over-the-late-late-show</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[The 1975 Take Over ‘The Late Late Show’]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>The music sets on late night talk shows aren’t that big, but there’s usually just enough room for the performers to do what they need to do. <strong>Matty Healy</strong> of <strong>The 1975</strong> had other ideas though during their appearance on “The Late Late Show.”</p>
   <p>The unpredictable frontman, clad in a blue jumpsuit, spent about 30 seconds on-stage before he decided to stretch his legs. While singing the opening lines to “I Like America &amp; America Likes Me,” Healy walked over to the main set and made himself comfortable in <strong>James Corden</strong>’s chair with a pair of backup dancers following.</p>
   <p>Healy eventually made his way back to the stage, where he stood on top of the bass drum before the song quietly faded out to the cheers of the audience.</p>
   <p>The 1975 had just appeared on The Late Late Show” in April, when Healy told Corden why the band was expecting to release two albums in less than a year.</p>
   <p>“It’s not trying to be clever,” he said. “We’re artists, but we’re consumers primarily, of music and TV. And I always say we’re in that age now where you watch the best thing you’ve ever seen on Netflix and you’ll be like ‘That was the best thing I’ve ever seen.’ And then you just want the next thing immediately, and I’m like that with music as well. It just feels like I want to tour for the next two years and what do you want to do in a band? Do you want to affect culture? And I don’t think you can’t do that with one record now.”</p>
   <p>The 1975 released their third studio album, <em>A Brief Inquiry into Online Relationships</em>, at the end of last year. The band started teasing album number four, <em>Notes on a Conditional Form</em> almost at the same time, but no release date has been announced. <a href="https://www.radio.com/blogs/bob-diehl/does-google-know-release-date-new-1975-album">Google may have known</a> at one point, however.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>James Corden&apos;s stage could not contain Matty Healy</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 The 1975 Take Over 'The Late Late Show']]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/The1975-0125adc4-305f-4ca8-8b80-b24e37806efd.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>James Corden&apos;s stage could not contain Matty Healy</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 The 1975 Take Over 'The Late Late Show']]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/The1975-0125adc4-305f-4ca8-8b80-b24e37806efd.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[
   <div class="component--youtube"
       data-element-id="youtube-player-CAa1KIDx"
       data-content-id="gjhUv2qzoTE"
@@ -275,21 +324,27 @@ height="150"></iframe>
       src="https://www.youtube.com/embed/gjhUv2qzoTE?autoplay=0&origin=https://www.youtube.com/watch?v=gjhUv2qzoTE"
       frameborder="0"></iframe>
   </div>
-]]></lead>
-			<category>The 1975</category>
-			<category>Alternative</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Bob Diehl</dc:creator>
-			<editorialFeeds>Alternative</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA K-Pop Stars NCT 127 Give an Inside Look at ‘Highway to Heaven’]]></title>
-			<link>https://www.radio.com/music/k-pop-stars-nct-127-give-inside-look-at-highway-to-heaven</link>
-			<pubDate>Tue, 23 Jul 2019 19:22:48 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/k-pop-stars-nct-127-give-inside-look-at-highway-to-heaven</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[K-pop chart-toppers NCT 127 stopped by RADIO.COM for an interview on their song “Highway to Heaven,” their favorite foods, and their favorite hobbies. ]]></description>
-			<content:encoded><![CDATA[  <p><a href="https://www.radio.com/blogs/michael-cerio/nct-127-reveal-best-part-performing-us-tv"><strong>NCT 127</strong></a> is a K-pop band that’s topped charts with their flawless harmonies, infectious beats, and combination of languages. The offshoot of unlimited group NCT formed in 2017, and has been a fan favorite ever since.</p>
+]]>
+      </lead>
+      <category>The 1975</category>
+      <category>Alternative</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Bob Diehl</dc:creator>
+      <editorialFeeds>Alternative</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix K-Pop Stars NCT 127 Give an Inside Look at ‘Highway to Heaven’]]>
+      </title>
+      <link>https://www.radio.com/music/k-pop-stars-nct-127-give-inside-look-at-highway-to-heaven</link>
+      <pubDate>Tue, 23 Jul 2019 19:22:48 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/k-pop-stars-nct-127-give-inside-look-at-highway-to-heaven</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[K-pop chart-toppers NCT 127 stopped by RADIO.COM for an interview on their song “Highway to Heaven,” their favorite foods, and their favorite hobbies. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><a href="https://www.radio.com/blogs/michael-cerio/nct-127-reveal-best-part-performing-us-tv"><strong>NCT 127</strong></a> is a K-pop band that’s topped charts with their flawless harmonies, infectious beats, and combination of languages. The offshoot of unlimited group NCT formed in 2017, and has been a fan favorite ever since.</p>
   <p>“We’re really encouraging our fans to just take a break from all the stresses that you guys get from real life. And just really take the highway to heaven and do what you love,” NCT 127 tells RADIO.COM of their latest release. “Highway to Heaven” is an uplifting track from their <em>NCT #127 WE ARE SUPERHUMAN</em> mini album- and it just got an English version.</p>
   <p>A vibrant new music video shows off the group’s choreographed dance moves in the canyons and deserts of the southwestern United States.</p>
   <div class="component--youtube"
@@ -315,34 +370,44 @@ height="150"></iframe>
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6063150197001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>Plus get their favorite foods and hobbies</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 K-Pop Stars NCT 127 Give Inside Look at ‘Highway to Heaven’]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/NCT127-696fb7f1-318b-4bb4-adea-384f418d5171.png</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--brightcove">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>Plus get their favorite foods and hobbies</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 K-Pop Stars NCT 127 Give Inside Look at ‘Highway to Heaven’]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/NCT127-696fb7f1-318b-4bb4-adea-384f418d5171.png</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--brightcove">
   <div class="player">
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6063150197001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></lead>
-			<category>NCT 127</category>
-			<category>Pop</category>
-			<category>K-Pop</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Tiana Timmerberg</dc:creator>
-			<editorialFeeds>CHR / Top 40</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Thomas Rhett and His Wife Are Expecting Their Third Child]]></title>
-			<link>https://www.radio.com/music/thomas-rhett-and-his-wife-are-expecting-their-third-child</link>
-			<pubDate>Tue, 23 Jul 2019 19:16:49 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/thomas-rhett-and-his-wife-are-expecting-their-third-child</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Thomas Rhett and His Wife Are Expecting Their Third Child]]></description>
-			<content:encoded><![CDATA[  <p><strong>Thomas Rhett </strong>and his wife, <strong>Lauren Akins</strong>, are sharing some exciting news. The couple is expecting their third child.</p>
+]]>
+      </lead>
+      <category>NCT 127</category>
+      <category>Pop</category>
+      <category>K-Pop</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Tiana Timmerberg</dc:creator>
+      <editorialFeeds>CHR / Top 40</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Thomas Rhett and His Wife Are Expecting Their Third Child]]>
+      </title>
+      <link>https://www.radio.com/music/thomas-rhett-and-his-wife-are-expecting-their-third-child</link>
+      <pubDate>Tue, 23 Jul 2019 19:16:49 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/thomas-rhett-and-his-wife-are-expecting-their-third-child</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Thomas Rhett and His Wife Are Expecting Their Third Child]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><strong>Thomas Rhett </strong>and his wife, <strong>Lauren Akins</strong>, are sharing some exciting news. The couple is expecting their third child.</p>
   <p>“Excited to share that I will now be paying for 3 weddings,” the country star joked on Instagram. “I feel so blessed to say that our third child is on the way and it’s a girl!!”</p>
   <p>The announcement is accompanied by a photo of the couple with their two young girls – all wearing bathing suits. Willa and Ada have their hands on mom’s baby bump. If you scroll through, you can also see the couple’s gender reveal that features a cloud of pink smoke.</p>
 <aside class="component--instagram-post">
@@ -359,14 +424,18 @@ height="150"></iframe>
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6042673246001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>See the gender reveal!</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Thomas Rhett and His Wife Are Expecting Their Third Child]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/ThomasRhett-cea36d92-a4ad-4957-a278-1f7a7047968a.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>See the gender reveal!</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Thomas Rhett and His Wife Are Expecting Their Third Child]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/ThomasRhett-cea36d92-a4ad-4957-a278-1f7a7047968a.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/ThomasRhett-72bfdaa7-eb8e-4ad5-8e26-42bb6f9726c9.jpg?width=800" alt="Lauren Akins (L) and reecording artist Thomas Rhett attend the 60th Annual GRAMMY Awards">
@@ -376,21 +445,27 @@ height="150"></iframe>
         <span class="caption">Lauren Akins and Thomas Rhett</span>
         <cite class="credit">Photo credit Jamie McCarthy/Getty Images</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Thomas Rhett</category>
-			<category>Country</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Bob Diehl</dc:creator>
-			<editorialFeeds>Country</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Exclusive: How Odell Beckham Jr. Has Embraced Trade from Giants to Browns]]></title>
-			<link>https://www.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization</link>
-			<pubDate>Tue, 23 Jul 2019 19:13:00 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization</guid>
-			<syndicatedUrl>https://923thefan.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization</syndicatedUrl>
-			<description><![CDATA[This is why Odell Beckham Jr. is seeing his much talked about trade from the New York Giants to the Cleveland Browns with fresh clarity and hope.]]></description>
-			<content:encoded><![CDATA[  <p><strong>(</strong><a href="https://923thefan.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization"><strong>92.3 The Fan</strong></a><strong>)</strong> -- Odell Beckham Jr. is cozying up to Cleveland.</p>
+</div>]]>
+      </lead>
+      <category>Thomas Rhett</category>
+      <category>Country</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Bob Diehl</dc:creator>
+      <editorialFeeds>Country</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Exclusive: How Odell Beckham Jr. Has Embraced Trade from Giants to Browns]]>
+      </title>
+      <link>https://www.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization</link>
+      <pubDate>Tue, 23 Jul 2019 19:13:00 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization</guid>
+      <syndicatedUrl>https://923thefan.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization</syndicatedUrl>
+      <description>
+        <![CDATA[This is why Odell Beckham Jr. is seeing his much talked about trade from the New York Giants to the Cleveland Browns with fresh clarity and hope.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><strong>(</strong><a href="https://923thefan.radio.com/articles/odell-beckham-jr-i-really-want-give-my-all-my-best-city-team-organization"><strong>92.3 The Fan</strong></a><strong>)</strong> -- Odell Beckham Jr. is cozying up to Cleveland.</p>
   <p>The Cleveland Browns wide receiver joined <a href="https://923thefan.radio.com/shows/bull-fox">Bull &amp; Fox</a> to talk about how he's embraced his controversial trade from the New York Giants to the Cleveland Browns.</p>
   <p>Beckham told The Bull that he's struggled to get past prior controversies. &quot;I think it's just a breath of fresh air,&quot; he said. &quot;I haven't been perfect in the past, I know I've done things wrong. But I felt that I could never escape that, that I could never get past those moments. People only want to talk about the catch, or the stuff with Josh Norman. And it's like, how can a person ever grow if that's all that's ever brought back up and thrown back in your face?&quot;</p>
   <p>He even cited how people would box him in and make assumptions about him based on his unique haircut.</p>
@@ -398,34 +473,44 @@ height="150"></iframe>
   <p>&quot;I'm happy to be here, be a part of all this,&quot; Beckham Jr. said. &quot;I really want to give my all, my best, to this city, to this team, to this organization.&quot;</p>
   <p>When asked about if his emotions make him a better player, he said: &quot;It definitely does. There's also a time and a place where I've worked on it. But I think because of all the other frustrations I had... you also feel like you can't help your team win.&quot;</p>
   <p>Beckham Jr. also discussed his relationship with Baker Mayfield and how he can help him going forward, his attitude toward the haters, and whether there's enough balls to go around in this offense.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>It&apos;s just a breath of fresh air; it just feels good to be in a new place, a new start</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Exclusive: How OBJ Has Embraced Trade from Giants to Browns]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/odell%20camp.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--brightcove">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>It&apos;s just a breath of fresh air; it just feels good to be in a new place, a new start</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Exclusive: How OBJ Has Embraced Trade from Giants to Browns]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/odell%20camp.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--brightcove">
   <div class="player">
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6063206665001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></lead>
-			<category>NFL</category>
-			<category>Odell Beckham Jr.</category>
-			<category>Damarious Randall</category>
-			<category>Cleveland Browns</category>
-			<category>Jarvis Landry</category>
-			<category>Baker Mayfield</category>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Blink-182 Is Texting People a Sample of Their New Song 'Darkside']]></title>
-			<link>https://www.radio.com/music/blink-182-texting-people-sample-of-their-new-song-darkside</link>
-			<pubDate>Tue, 23 Jul 2019 19:02:11 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/blink-182-texting-people-sample-of-their-new-song-darkside</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Blink-182 wants your number so they can give you their new song, “Darkside”.]]></description>
-			<content:encoded><![CDATA[  <p><strong>Blink-182</strong> wants your number.</p>
+]]>
+      </lead>
+      <category>NFL</category>
+      <category>Odell Beckham Jr.</category>
+      <category>Damarious Randall</category>
+      <category>Cleveland Browns</category>
+      <category>Jarvis Landry</category>
+      <category>Baker Mayfield</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Blink-182 Is Texting People a Sample of Their New Song 'Darkside']]>
+      </title>
+      <link>https://www.radio.com/music/blink-182-texting-people-sample-of-their-new-song-darkside</link>
+      <pubDate>Tue, 23 Jul 2019 19:02:11 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/blink-182-texting-people-sample-of-their-new-song-darkside</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Blink-182 wants your number so they can give you their new song, “Darkside”.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><strong>Blink-182</strong> wants your number.</p>
   <p>On Tuesday the band began tweeting out a number, taken from a picture of a graffiti-covered bathroom stall. “For a good time text” is reads, along with the number (323) 831-0182.</p>
 <aside class="component--tweet">
   <blockquote class="twitter-tweet"><p lang="und" dir="ltr">👇🏼 +1 (323) 831-0182 👇🏼 <a href="https://t.co/lXnAYX6oTO">pic.twitter.com/lXnAYX6oTO</a></p>&mdash; blink-182 (@blink182) <a href="https://twitter.com/blink182/status/1153732588890025984?ref_src=twsrc%5Etfw">July 23, 2019</a></blockquote>
@@ -439,14 +524,18 @@ height="150"></iframe>
   </div>
 </div>
   <p>The band is currently on tour with <strong>Lil Wayne</strong>, who is <a href="https://www.radio.com/music/lil-wayne-not-quitting-blink-182-tour-having-too-much-fun">totally really seriously excited</a> to be there, celebrating the <a href="https://www.radio.com/blogs/tiana-timmerberg/blink-182-play-enema-state-full-entire-summer-tour">20th anniversary of <em>Enema Of The State</em></a>.<br />You can find the full list of upcoming dates <a href="https://www.blink182.com/">here</a>.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>The band’s new album arrives on September 20th</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Blink-182 Texting People Sample of Their New Song 'Darkside']]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/Blink182072319-f5687c23-875e-4e59-a713-e56dca5c41a0.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>The band’s new album arrives on September 20th</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Blink-182 Texting People Sample of Their New Song 'Darkside']]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/Blink182072319-f5687c23-875e-4e59-a713-e56dca5c41a0.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/Blink182072319-b4bd55a4-2916-4bd6-a486-530efcd8576d.jpg?width=800" alt="Mark Hoppus of blink-182 performs onstage at KROQ Weenie Roast">
@@ -456,21 +545,27 @@ height="150"></iframe>
         
         <cite class="credit">Photo credit <a href="https://www.gettyimages.com/search/photographer?family=editorial&amp;photographer=Christopher+Polk">Christopher Polk</a> / Staff</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Alternative</category>
-			<category>Blink-182</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Michael Cerio</dc:creator>
-			<editorialFeeds>Alternative</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Toddler Receives Birthday Cake Mistakenly Addressed to 'Loser']]></title>
-			<link>https://www.radio.com/news/toddler-gets-birthday-cake-mistakenly-addressed-to-loser</link>
-			<pubDate>Tue, 23 Jul 2019 18:44:43 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/news/toddler-gets-birthday-cake-mistakenly-addressed-to-loser</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[A toddler, whose nickname is “Lizard,” received a birthday cake that read “Happy Birthday, Loser.”]]></description>
-			<content:encoded><![CDATA[  <p>It’s your party and you can cry if you want to, especially when you get insulted on your birthday cake!</p>
+</div>]]>
+      </lead>
+      <category>Alternative</category>
+      <category>Blink-182</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Michael Cerio</dc:creator>
+      <editorialFeeds>Alternative</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Toddler Receives Birthday Cake Mistakenly Addressed to 'Loser']]>
+      </title>
+      <link>https://www.radio.com/news/toddler-gets-birthday-cake-mistakenly-addressed-to-loser</link>
+      <pubDate>Tue, 23 Jul 2019 18:44:43 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/news/toddler-gets-birthday-cake-mistakenly-addressed-to-loser</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[A toddler, whose nickname is “Lizard,” received a birthday cake that read “Happy Birthday, Loser.”]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>It’s your party and you can cry if you want to, especially when you get insulted on your birthday cake!</p>
   <p>A Missouri mother got quite the surprise after picking up her toddler’s birthday cake and found the bakery had mistakenly written “Happy Birthday Loser” on it, according to <a href="https://people.com/human-interest/missouri-girl-birthday-cake-says-loser/">People.</a></p>
   <p>It all started when Melin Jones stopped into a local Walmart to get the festive treat for her two-year-old daughter Elizabeth and asked an employee to personalize it with her little girl’s unusual nickname, Lizard.</p>
 <aside class="component--facebook-post">
@@ -484,14 +579,18 @@ height="150"></iframe>
   <p>While Jones and her husband did wind up eating the ‘loser’ cake, they returned to the store and purchased another birthday cake for their daughter that simply said, “Happy Birthday Elizabeth.”</p>
   <p>And as if the story couldn’t get any sweeter, Jones also revealed she <a href="https://www.radio.com/articles/walmart-will-deliver-groceries-straight-your-fridge">never informed Walmart</a> about the mix-up so as not to get the employee in trouble.</p>
   <p>She even took responsibility for the entire fiasco by adding: “It was my fault for not checking it when it was handed to me and not the lady who heard me wrong.”</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline></subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Toddler Gets Birthday Cake Mistakenly Addressed to 'Loser']]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/BirthdayCake-4f4ed5ee-dab1-4806-873f-2053a52547f0.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline></subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Toddler Gets Birthday Cake Mistakenly Addressed to 'Loser']]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/BirthdayCake-4f4ed5ee-dab1-4806-873f-2053a52547f0.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/BirthdayCake-16747e06-4972-463c-beb9-ca123e44a2d9.jpg?width=800" alt="Birthday cake">
@@ -501,21 +600,27 @@ height="150"></iframe>
         
         <cite class="credit">Photo credit Getty Images</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Birthdays</category>
-			<category>National News</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Johnny Lopez</dc:creator>
-			<editorialFeeds>Trending</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Vin Diesel Seen ‘Choking Back Tears’ After F&F9 Stunt Double Falls, Left in Coma]]></title>
-			<link>https://www.radio.com/music/vin-diesel-choking-back-tears-when-stuntman-left-in-coma</link>
-			<pubDate>Tue, 23 Jul 2019 18:42:53 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/vin-diesel-choking-back-tears-when-stuntman-left-in-coma</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[The ‘Fast & Furious 9’ star was emotional and shaken when his stunt double plunged 30 feet onto his head and fell into a coma. ]]></description>
-			<content:encoded><![CDATA[  <p>Vin Diesel was said to be “choking back tears” on the set of <em>Fast &amp; Furious 9</em> when his stunt double plunged 30 feet onto his head, the Daily Mail <a href="https://www.dailymail.co.uk/news/article-7275667/Pictured-Vin-Diesels-Fast-Furious-body-double-fighting-life.html">reports</a>.</p>
+</div>]]>
+      </lead>
+      <category>Birthdays</category>
+      <category>National News</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Johnny Lopez</dc:creator>
+      <editorialFeeds>Trending</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Vin Diesel Seen ‘Choking Back Tears’ After F&F9 Stunt Double Falls, Left in Coma]]>
+      </title>
+      <link>https://www.radio.com/music/vin-diesel-choking-back-tears-when-stuntman-left-in-coma</link>
+      <pubDate>Tue, 23 Jul 2019 18:42:53 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/vin-diesel-choking-back-tears-when-stuntman-left-in-coma</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[The ‘Fast & Furious 9’ star was emotional and shaken when his stunt double plunged 30 feet onto his head and fell into a coma. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>Vin Diesel was said to be “choking back tears” on the set of <em>Fast &amp; Furious 9</em> when his stunt double plunged 30 feet onto his head, the Daily Mail <a href="https://www.dailymail.co.uk/news/article-7275667/Pictured-Vin-Diesels-Fast-Furious-body-double-fighting-life.html">reports</a>.</p>
   <p>The stuntman, Joe Watts, was injured while shooting on set at the Warner Bros Studios in Leavesden, Hertfordshire in England.</p>
   <p>Filming of the action franchise’s <a href="https://www.radio.com/music/vin-diesel-reveals-whos-back-for-fast-and-furious-9">ninth installment</a> halted when a safety cable snapped as Watts jumped off a balcony and hit the ground.</p>
   <p>Watts fell into a coma following his serious head injury, according to his girlfriend Tilly Powell, also a stunt double herself. Powell and her father are currently attending Watts at his bedside in the hospital that he was airlifted to.</p>
@@ -524,14 +629,18 @@ height="150"></iframe>
   <p>“Vin Diesel seen on set seconds after,” a source told <a href="https://www.thesun.co.uk/news/9560509/vin-diesel-total-shock-filming-accident/">The Sun Online</a>. “He looked ashen, totally in shock and blinking back tears. He saw what happened.”</p>
   <p>Watts is a British stuntman who performed on various major projects including Kingsman Golden Circle, Star Wars: The Last Jedi, Spider Man Far From Home, Game of Thrones and Jurassic World.</p>
   <p>Activity on the set is quiet following the accident. One worker who was on set said, “It was very quiet there yesterday after it happened and it is the same today. I don’t think there is much going on.”</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline></subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Vin Diesel ‘Choking Back Tears’ When Stuntman Left in Coma]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/GettyImages1162017056-3346f3a5-3723-439e-a3e2-96948169183c.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline></subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Vin Diesel ‘Choking Back Tears’ When Stuntman Left in Coma]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/GettyImages1162017056-3346f3a5-3723-439e-a3e2-96948169183c.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/GettyImages1162017056-5f9c4c93-e0ef-4b17-ad34-a0980b36121e.jpg?width=800" alt="vin diesel at the lion king premiere">
@@ -541,24 +650,30 @@ height="150"></iframe>
         
         <cite class="credit">Photo credit Getty Images</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Vin Diesel</category>
-			<category>Joe Watts</category>
-			<category>Tilly Powell</category>
-			<category>Fast and Furious 9</category>
-			<category>Entertainment</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Eldis Sula</dc:creator>
-			<editorialFeeds>Trending</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Of Monsters and Men Take Us Inside 'Fever Dream']]></title>
-			<link>https://www.radio.com/music/of-monsters-and-men-take-us-inside-fever-dream</link>
-			<pubDate>Tue, 23 Jul 2019 18:23:24 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/of-monsters-and-men-take-us-inside-fever-dream</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Of Monsters and Men Take Us Inside ‘Fever Dream’]]></description>
-			<content:encoded><![CDATA[  <p>It’s been four years since <strong>Of Monsters and Men</strong> released their second studio album <em>Beneath the Skin</em>, and when it was time to get back in the studio to craft a follow-up, the band from Iceland knew it.</p>
+</div>]]>
+      </lead>
+      <category>Vin Diesel</category>
+      <category>Joe Watts</category>
+      <category>Tilly Powell</category>
+      <category>Fast and Furious 9</category>
+      <category>Entertainment</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Eldis Sula</dc:creator>
+      <editorialFeeds>Trending</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Of Monsters and Men Take Us Inside 'Fever Dream']]>
+      </title>
+      <link>https://www.radio.com/music/of-monsters-and-men-take-us-inside-fever-dream</link>
+      <pubDate>Tue, 23 Jul 2019 18:23:24 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/of-monsters-and-men-take-us-inside-fever-dream</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Of Monsters and Men Take Us Inside ‘Fever Dream’]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>It’s been four years since <strong>Of Monsters and Men</strong> released their second studio album <em>Beneath the Skin</em>, and when it was time to get back in the studio to craft a follow-up, the band from Iceland knew it.</p>
   <p>“It was a natural development,” guitarist <strong>Ragnar “Raggi” Þórhallsson </strong>told RADIO.COM. “We had just been writing for a long time and we felt like we had enough.”</p>
   <p>The results will be realized on Friday when <em>Fever Dream</em> is finally unveiled. Both Raggi and singer <strong>Nanna Brandis Hilmarsdóttir</strong> agree that the hard-charging “Alligator” is the track that holds the whole thing together.</p>
   <p>“It came very early in the writing process,” Nanna explained. “It immediately just felt like something we wanted to explore because it was exciting. I guess that’s a lot of what we were searching for at that time, and we just wanted something new and exciting and it was challenging us.”</p>
@@ -573,33 +688,43 @@ height="150"></iframe>
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6045813750001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>The band from Iceland is ready to release their first album in 4 years</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Of Monsters and Men Take Us Inside 'Fever Dream']]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/OfMonstersandMen-497766ab-e566-4427-990f-090b1605879a.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--brightcove">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>The band from Iceland is ready to release their first album in 4 years</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Of Monsters and Men Take Us Inside 'Fever Dream']]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/OfMonstersandMen-497766ab-e566-4427-990f-090b1605879a.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--brightcove">
   <div class="player">
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6063061230001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></lead>
-			<category>Of Monsters and Men</category>
-			<category>alternative</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Bob Diehl</dc:creator>
-			<editorialFeeds>Alternative</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA John Oliver Confirms Beyoncé Was Photoshopped Into 'The Lion King' Cast Photo]]></title>
-			<link>https://www.radio.com/music/beyonce-was-photoshopped-into-the-lion-king-cast-photo</link>
-			<pubDate>Tue, 23 Jul 2019 18:16:45 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/beyonce-was-photoshopped-into-the-lion-king-cast-photo</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[In a recent appearance on ‘The Late Show with Stephen Colbert,’ John Oliver hilariously confirmed Beyoncé was Photoshopped into ‘The Lion King’ cast photo. Hear the amazing story behind it here ]]></description>
-			<content:encoded><![CDATA[  <p><em>The Lion King</em> is already breaking box office records with <a href="https://www.radio.com/music/beyonce-inspires-brown-skin-girl-challenge-the-lion-king ">one of the biggest film debuts in history</a>. With nostalgia, incredibly realistic animation, and a star-studded cast, the Disney remake is unsurprisingly dominating.</p>
+]]>
+      </lead>
+      <category>Of Monsters and Men</category>
+      <category>alternative</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Bob Diehl</dc:creator>
+      <editorialFeeds>Alternative</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix John Oliver Confirms Beyoncé Was Photoshopped Into 'The Lion King' Cast Photo]]>
+      </title>
+      <link>https://www.radio.com/music/beyonce-was-photoshopped-into-the-lion-king-cast-photo</link>
+      <pubDate>Tue, 23 Jul 2019 18:16:45 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/beyonce-was-photoshopped-into-the-lion-king-cast-photo</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[In a recent appearance on ‘The Late Show with Stephen Colbert,’ John Oliver hilariously confirmed Beyoncé was Photoshopped into ‘The Lion King’ cast photo. Hear the amazing story behind it here ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><em>The Lion King</em> is already breaking box office records with <a href="https://www.radio.com/music/beyonce-inspires-brown-skin-girl-challenge-the-lion-king ">one of the biggest film debuts in history</a>. With nostalgia, incredibly realistic animation, and a star-studded cast, the Disney remake is unsurprisingly dominating.</p>
   <p>Also unsurprisingly, <strong>Beyoncé</strong> is continuing to shine in the spotlight. Even when she wasn’t actually there.</p>
   <p>When the cast photo for <em>The Lion King</em> was released earlier this month, everyone immediately noticed how Beyoncé’s poise and powerful energy stood out. So much so, that it seemed like she may have been edited into the picture. In a new appearance on <em>The Late Show with Stephen Colbert</em>, costar <strong>John Oliver</strong> confirmed she wasn’t really there for the group photo.</p>
 <aside class="component--tweet">
@@ -627,35 +752,45 @@ height="150"></iframe>
   <p>“Yeah, she wasn’t there,” John immediately confirmed. “Chiwetel was sitting in the front and he said, ‘You need to be careful where your foot is.’ I looked down and there was just this piece of tape on the floor with Beyoncé’s name written on it,” he recalled while reenacting his quick jump away from Beyoncé’s spot.</p>
   <p>“If you look at my face in there, I look really intimidated... It’s only appropriate that there’s a significant gap between me and the actual queen.”</p>
   <p>Watch his hilarious confession in the video above!</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>Hear the hilarious story behind it</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Beyonce Was Photoshopped Into 'The Lion King' Cast Photo ]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/JohnOliverBeyonce-2a60735b-276f-4cbb-b885-99ab4b4dc324.png</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--brightcove">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>Hear the hilarious story behind it</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Beyonce Was Photoshopped Into 'The Lion King' Cast Photo ]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/JohnOliverBeyonce-2a60735b-276f-4cbb-b885-99ab4b4dc324.png</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--brightcove">
   <div class="player">
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6059411946001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></lead>
-			<category>Beyonce</category>
-			<category>The Lion King</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Tiana Timmerberg</dc:creator>
-			<editorialFeeds>AC</editorialFeeds>
-			<editorialFeeds>Urban</editorialFeeds>
-			<editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Chance the Rapper Forced to Eat Broccoli After Losing a Bet with Megan Thee Stallion]]></title>
-			<link>https://www.radio.com/music/chance-the-rapper-forced-to-eat-broccoli-after-losing-bet-with-megan-thee-stallion</link>
-			<pubDate>Tue, 23 Jul 2019 18:16:40 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/chance-the-rapper-forced-to-eat-broccoli-after-losing-bet-with-megan-thee-stallion</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Chance The Rapper drops his debut ‘The Big Day’ on Friday.]]></description>
-			<content:encoded><![CDATA[  <p>A lot has gone into <strong>Chance The Rapper</strong>’s debut album. Years of sweat and success, and at least one piece of broccoli.</p>
+]]>
+      </lead>
+      <category>Beyonce</category>
+      <category>The Lion King</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Tiana Timmerberg</dc:creator>
+      <editorialFeeds>AC</editorialFeeds>
+      <editorialFeeds>Urban</editorialFeeds>
+      <editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Chance the Rapper Forced to Eat Broccoli After Losing a Bet with Megan Thee Stallion]]>
+      </title>
+      <link>https://www.radio.com/music/chance-the-rapper-forced-to-eat-broccoli-after-losing-bet-with-megan-thee-stallion</link>
+      <pubDate>Tue, 23 Jul 2019 18:16:40 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/chance-the-rapper-forced-to-eat-broccoli-after-losing-bet-with-megan-thee-stallion</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Chance The Rapper drops his debut ‘The Big Day’ on Friday.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>A lot has gone into <strong>Chance The Rapper</strong>’s debut album. Years of sweat and success, and at least one piece of broccoli.</p>
   <p>Chance is apparently not big into vegetables, so when he challenged <strong>Megan Thee Stallion</strong> to get a verse done in time for his debut, the <em>Fever</em> rapper bet him some broccoli she could turn it around in time.</p>
   <p>“Okay y’all this is RARE FOOTAGE” she wrote on Instagram. “Chance The Rapper does NOT eat vegetables right, and I’ve been on the road so much that I haven’t been able to record a lot rn. I bet him that if I had my verse to him In the amount of time he needed it by he would have to eat broccoli.”</p>
   <p>“We see who won” she added, with the video of Chance battling through a single piece of broccoli.</p>
@@ -665,14 +800,18 @@ height="150"></iframe>
   <p>We will find out on Friday if Megan Thee Stallion is featured on <em>The Big Day</em>.<br />After three career-shaping mixtapes and three GRAMMY awards, Chance will finally release a debut album on July 26.</p>
   <p>The 26-year-old star revealed the title and release date last week during a visit to <a href="https://www.radio.com/music/chance-the-rapper-announces-debut-album-the-big-day" target="_blank"><em>The Tonight Show starring Jimmy Fallon</em></a>.</p>
   <p>You can find more details about <em>The Big Day</em> <a href="https://www.chanceraps.com/">here</a>.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>‘The Big Day’ arrives this Friday July 26</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Chance the Rapper Forced To Eat Broccoli After Losing a Bet]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/Chance072319-a583076a-8e91-4414-8607-1b7e442392d1.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>‘The Big Day’ arrives this Friday July 26</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Chance the Rapper Forced To Eat Broccoli After Losing a Bet]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/Chance072319-a583076a-8e91-4414-8607-1b7e442392d1.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/Chance072319-a9b5c998-897d-4410-b12e-e82c125567bb.jpg?width=800" alt="Chance The Rapper speaks onstage">
@@ -682,21 +821,27 @@ height="150"></iframe>
         
         <cite class="credit">Photo credit <a href="https://www.gettyimages.com/search/photographer?family=editorial&amp;photographer=Emma+McIntyre">Emma McIntyre</a> / Staff</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Hip Hop R&amp;B</category>
-			<category>Chance The Rapper</category>
-			<category>Megan Thee Stallion</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Michael Cerio</dc:creator>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Ariana Grande, Taylor Swift, and All the Nominations for the 2019 MTV Video Music Awards]]></title>
-			<link>https://www.radio.com/music/the-nominations-for-the-2019-mtv-video-music-awards</link>
-			<pubDate>Tue, 23 Jul 2019 16:44:48 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/the-nominations-for-the-2019-mtv-video-music-awards</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[See all the nominees for the 2019 MTV Video Music Awards, including the “Best K-pop” category for the first time ever.]]></description>
-			<content:encoded><![CDATA[  <p><strong>Taylor Swift</strong> and <strong>Ariana Grande</strong> lead all nominees for the 2019 MTV VMAs, both collecting 10 nominations for this year’s edition of the award show.</p>
+</div>]]>
+      </lead>
+      <category>Hip Hop R&amp;B</category>
+      <category>Chance The Rapper</category>
+      <category>Megan Thee Stallion</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Michael Cerio</dc:creator>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Ariana Grande, Taylor Swift, and All the Nominations for the 2019 MTV Video Music Awards]]>
+      </title>
+      <link>https://www.radio.com/music/the-nominations-for-the-2019-mtv-video-music-awards</link>
+      <pubDate>Tue, 23 Jul 2019 16:44:48 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/the-nominations-for-the-2019-mtv-video-music-awards</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[See all the nominees for the 2019 MTV Video Music Awards, including the “Best K-pop” category for the first time ever.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><strong>Taylor Swift</strong> and <strong>Ariana Grande</strong> lead all nominees for the 2019 MTV VMAs, both collecting 10 nominations for this year’s edition of the award show.</p>
   <p>“<a href="https://www.radio.com/blogs/michael-cerio/taylor-swift-makes-peace-katy-perry-and-has-pride-party-you-need-calm-down-video">You Need To Calm Down</a>” and “<a href="https://www.radio.com/blogs/michael-cerio/ariana-grande-honors-mean-girls-legally-blonde-and-all-our-favorite-films-thank">thank u, next</a>” will face off in the <em>Video Of The Year</em> category against clips courtesy of <strong>Billie Eilish</strong>, <strong>Lil Nas X</strong>, <strong>21 Savage</strong>, and the <strong>Jonas Brothers</strong>.</p>
   <p><em>Video Of The Year</em> is usually the biggest award of the night, but this year it might be bested by the continuing K-pop invasion. For the first time ever, the show will hand out a “moon person” in the Best K-pop category, with <strong>BTS</strong> and <strong>Halsey</strong>’s “Boy With Luv” facing strong competition from <strong>BLACKPINK</strong>, <strong>Monsta X</strong>, <strong>TOMORROW X TOGETHER</strong>, <strong>NCT 127</strong>, and <strong>EXO</strong>.</p>
   <p>This year also marks the debut of the <em>Video For Good</em> category, showcasing clips that hope to inspire social change. It includes nominations for <strong>The Killers</strong>, <strong>John Legend</strong>, and<strong> Lil Dicky</strong>.</p>
@@ -850,34 +995,44 @@ height="150"></iframe>
   <p>Shawn Mendes &amp; Camila Cabello – &quot;Señorita&quot; – Cinematography by Scott Cunningham</p>
   <p>Solange – &quot;Almeda&quot; – Cinematography by Chayse Irvin, Ryan Marie Helfant, Justin Hamilton</p>
   <p>Taylor Swift ft. Brendon Urie of Panic! At The Disco – &quot;ME!&quot; – Cinematography by Starr Whitesides</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>Plus the first nominees in the “Best K-pop” category</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 The Nominations for the 2019 MTV Video Music Awards]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/GrandeSwift072219-265417f0-1530-49f7-99fc-c5fefb743442.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--html-embed">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>Plus the first nominees in the “Best K-pop” category</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 The Nominations for the 2019 MTV Video Music Awards]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/GrandeSwift072219-265417f0-1530-49f7-99fc-c5fefb743442.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--html-embed">
     <div class="html-embed__iframe-container">
       <div class="iframe-container__padded-container">
         <iframe src="https://players.brightcove.net/5757251889001/SkXmVqJHX_default/index.html?videoId=6063241455001" allowfullscreen="" allow="encrypted-media" width="300" height="150"></iframe>
       </div>
     </div>
 </div>
-]]></lead>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Michael Cerio</dc:creator>
-			<editorialFeeds>AC</editorialFeeds>
-			<editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Boxer Maxim Dadashev Dies from Brain Injuries Sustained in Ring]]></title>
-			<link>https://www.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring</link>
-			<pubDate>Tue, 23 Jul 2019 16:33:00 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring</guid>
-			<syndicatedUrl>https://thefandc.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring</syndicatedUrl>
-			<description><![CDATA[Russian-born lightweight Maxim Dadashev died after injuries he received during a fight on Friday sent him to the hospital.]]></description>
-			<content:encoded><![CDATA[  <p><strong>(</strong><a href="https://thefandc.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring"><strong>106.7 The Fan</strong></a><strong>)</strong> -- Boxer Maxim Dadashev has died from injuries during a fight Friday at MGM National Harbor, according to ESPN. He was 28.</p>
+]]>
+      </lead>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Michael Cerio</dc:creator>
+      <editorialFeeds>AC</editorialFeeds>
+      <editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Boxer Maxim Dadashev Dies from Brain Injuries Sustained in Ring]]>
+      </title>
+      <link>https://www.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring</link>
+      <pubDate>Tue, 23 Jul 2019 16:33:00 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring</guid>
+      <syndicatedUrl>https://thefandc.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring</syndicatedUrl>
+      <description>
+        <![CDATA[Russian-born lightweight Maxim Dadashev died after injuries he received during a fight on Friday sent him to the hospital.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p><strong>(</strong><a href="https://thefandc.radio.com/maxim-dadashev-dies-from-brain-injuries-suffered-in-ring"><strong>106.7 The Fan</strong></a><strong>)</strong> -- Boxer Maxim Dadashev has died from injuries during a fight Friday at MGM National Harbor, according to ESPN. He was 28.</p>
   <p>The Russian-born lightweight – 13-0 coming into the bout with Subriel Matias – sustained repeated blows to the head during the fight, so many that his trainer, Buddy McGirt, stopped the fight after the 11th round.</p>
 <aside class="component--tweet">
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a mark of a great trainer, one that knows his warrior at war 🥊 a trainer has to love his fighter enough to make a crucial call sometimes saving him from his very self. Great call Buddy @buddymcgirtboxing prayers up for this young warrior <a href="https://twitter.com/hashtag/speedyrecovery?src=hash&amp;ref_src=twsrc%5Etfw">#speedyrecovery</a> <a href="https://twitter.com/hashtag/toughsport?src=hash&amp;ref_src=twsrc%5Etfw">#toughsport</a> 🙏🏾 <a href="https://t.co/cKljvTKOgt">pic.twitter.com/cKljvTKOgt</a></p>&mdash; The Magic Man 🎩 (@AntonioTarver) <a href="https://twitter.com/AntonioTarver/status/1152617713778511872?ref_src=twsrc%5Etfw">July 20, 2019</a></blockquote>
@@ -888,14 +1043,18 @@ height="150"></iframe>
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">RIP Maxim Dadashev.<br><br>He passed away from injuries suffered during Friday&#39;s fight, according to trainer Buddy McGirt and Donatas Janusevicius, Dadashev&#39;s strength and conditioning coach.<br><br>We join Maxim’s family and friends in grief, support and wish prompt resignation.<br><br>Via <a href="https://twitter.com/espn?ref_src=twsrc%5Etfw">@espn</a> <a href="https://t.co/8Pbu6cD6LC">pic.twitter.com/8Pbu6cD6LC</a></p>&mdash; World Boxing Council (@WBCBoxing) <a href="https://twitter.com/WBCBoxing/status/1153698800797663232?ref_src=twsrc%5Etfw">July 23, 2019</a></blockquote>
 </aside>
   <p><em>Follow 106.7 The Fan on <a href="https://twitter.com/1067theFan" rel="nofollow">Twitter</a> and <a href="https://www.instagram.com/1067thefan/" rel="nofollow">Instagram</a></em></p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline></subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Boxer Dadashev Dies from Brain Injuries Sustained in Ring]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/Maxim%20Dadashev.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline></subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Boxer Dadashev Dies from Brain Injuries Sustained in Ring]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/Maxim%20Dadashev.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/Maxim%20Dadashev.jpg?width=800" alt="Boxer Maxim Dadashev dies from brain injuries sustained in the ring">
@@ -905,20 +1064,26 @@ height="150"></iframe>
         
         <cite class="credit">Photo credit Steve Marcus/Getty Images</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Sports</category>
-			<category>Maxim Dadashev</category>
-			<category>MGM National Harbor</category>
-			<category>Boxing</category>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Fans Fuming at Harry and Meghan’s Birthday Note to Prince George]]></title>
-			<link>https://www.radio.com/music/fans-livid-at-harry-meghans-birthday-note-to-prince-george</link>
-			<pubDate>Tue, 23 Jul 2019 16:20:01 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/fans-livid-at-harry-meghans-birthday-note-to-prince-george</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[The Duke and Duchess of Sussex caught some major flack from royal devotees for their simple message to royal nephew.]]></description>
-			<content:encoded><![CDATA[  <p>They really <a href="https://www.radio.com/music/meghan-markle-they-dont-make-it-easy-to-be-a-royal">don’t make it easy</a> to be a royal!</p>
+</div>]]>
+      </lead>
+      <category>Sports</category>
+      <category>Maxim Dadashev</category>
+      <category>MGM National Harbor</category>
+      <category>Boxing</category>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Fans Fuming at Harry and Meghan’s Birthday Note to Prince George]]>
+      </title>
+      <link>https://www.radio.com/music/fans-livid-at-harry-meghans-birthday-note-to-prince-george</link>
+      <pubDate>Tue, 23 Jul 2019 16:20:01 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/fans-livid-at-harry-meghans-birthday-note-to-prince-george</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[The Duke and Duchess of Sussex caught some major flack from royal devotees for their simple message to royal nephew.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>They really <a href="https://www.radio.com/music/meghan-markle-they-dont-make-it-easy-to-be-a-royal">don’t make it easy</a> to be a royal!</p>
   <p>Prince Harry and Meghan Markle are under fire from internet-dwelling royal devotees for the comments they left on photos celebrating <a href="https://www.radio.com/music/gallery/prince-george-turns-6-see-how-he-celebrated">Prince George’s 6th birthday</a>.</p>
   <p>The photos were posted on Sunday by the Duke and Duchess of Cambridge on the Kensington Palace Instagram account.</p>
   <p>Under one of the pics, Uncle Harry and Aunt Meghan commented, “Happy Birthday,” from their <a href="https://www.instagram.com/sussexroyal">@SussexRoyal</a> account, adding, “Wishing you a very special day and lots of love!”</p>
@@ -933,14 +1098,18 @@ height="150"></iframe>
   <p>Others shared in the Don’t Be So Formal Bro sentiment. Another user wrote, “Stop nitpicking relax. You just want to find fault where there is none. Family is family and how they address each other in public or private is none of your concern.”</p>
   <p>The criticism is nothing new, especially for Meghan Markle, who caught flack recently for wanting to watch <a href="https://www.radio.com/news/meghan-markle-slammed-as-tacky-for-photo-ban-at-wimbledon">some tennis in peace</a>.</p>
   <p>But it’s not hard to cause rumblings and rattle some cages when you’re a member of that <a href="https://www.radio.com/music/and-the-most-influential-people-on-the-internet-are">other most regal court</a> -- the Most Influential People on the Internet -- with the likes of Lil Nas X, Cardi, and Ariana.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline></subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Fans Livid at Harry, Meghan’s Birthday Note to Prince George]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/GettyImages1159072039-6c4d1c29-4dcb-4e81-8000-cbf927316672.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--html-embed">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline></subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Fans Livid at Harry, Meghan’s Birthday Note to Prince George]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/GettyImages1159072039-6c4d1c29-4dcb-4e81-8000-cbf927316672.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--html-embed">
     <div class="html-embed__iframe-container">
       <div class="iframe-container__padded-container">
         <iframe src="//players.brightcove.net/5757251889001/SkXmVqJHX_default/index.html?videoId=6055909778001" 
@@ -953,23 +1122,29 @@ height="150"></iframe>
       </div>
     </div>
 </div>
-]]></lead>
-			<category>Prince Harry</category>
-			<category>Meghan Markle</category>
-			<category>Prince George</category>
-			<category>Entertainment</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Eldis Sula</dc:creator>
-			<editorialFeeds>Trending</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA Watch Shaq Own the Mosh Pit at a European Festival]]></title>
-			<link>https://www.radio.com/music/watch-shaq-own-the-mosh-pit-at-a-european-festival</link>
-			<pubDate>Tue, 23 Jul 2019 16:09:54 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/watch-shaq-own-the-mosh-pit-at-a-european-festival</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Watch Shaq Own the Mosh Pit at a European Festival]]></description>
-			<content:encoded><![CDATA[  <p>Watch out! There’s a man coming through who eclipses 7 feet and 300 pounds.</p>
+]]>
+      </lead>
+      <category>Prince Harry</category>
+      <category>Meghan Markle</category>
+      <category>Prince George</category>
+      <category>Entertainment</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Eldis Sula</dc:creator>
+      <editorialFeeds>Trending</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix Watch Shaq Own the Mosh Pit at a European Festival]]>
+      </title>
+      <link>https://www.radio.com/music/watch-shaq-own-the-mosh-pit-at-a-european-festival</link>
+      <pubDate>Tue, 23 Jul 2019 16:09:54 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/watch-shaq-own-the-mosh-pit-at-a-european-festival</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Watch Shaq Own the Mosh Pit at a European Festival]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>Watch out! There’s a man coming through who eclipses 7 feet and 300 pounds.</p>
   <p><strong>Shaquille O’Neal</strong> was impossible to miss when he took over the mosh pit at a European EDM festival. The former NBA star seemed to be having the time of his life as he joined the crowd at Tomorrowland in Belgium. From the looks of it, Shaq actually held back a little, most likely to avoid pancaking those who were half his size.</p>
 <aside class="component--instagram-post">
   <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B0G6qtSAuW6/" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/B0G6qtSAuW6/" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/B0G6qtSAuW6/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Sometimes is better to party WITH the people, than for the people ! @tomorrowland</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/djdiesel/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> DJ DIESEL</a> (@djdiesel) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-19T20:37:40+00:00">Jul 19, 2019 at 1:37pm PDT</time></p></div></blockquote>
@@ -979,33 +1154,43 @@ height="150"></iframe>
 <aside class="component--instagram-post">
   <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B0GwyoHgY8k/" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/B0GwyoHgY8k/" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/B0GwyoHgY8k/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I just Rocked @tomorrowland</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/djdiesel/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> DJ DIESEL</a> (@djdiesel) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-19T20:38:30+00:00">Jul 19, 2019 at 1:38pm PDT</time></p></div></blockquote>
 </aside>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>The former NBA star also played a set of his own</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 Watch Shaq Own the Mosh Pit at a European Festival]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/Shaq1-9d0581a9-5986-4ed2-868a-f749ea3279e3.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div class="component--brightcove">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>The former NBA star also played a set of his own</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 Watch Shaq Own the Mosh Pit at a European Festival]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/Shaq1-9d0581a9-5986-4ed2-868a-f749ea3279e3.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div class="component--brightcove">
   <div class="player">
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6023883106001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></lead>
-			<category>Shaquille O&apos;Neal</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Bob Diehl</dc:creator>
-			<editorialFeeds>Rock</editorialFeeds>
-			<editorialFeeds>Alternative</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA On Tour: John Mayer Debuts Improvised Ode to the Fan That Yells ‘Play Free Bird’]]></title>
-			<link>https://www.radio.com/music/on-tour-john-mayer-debuts-improvised-free-bird-guy-song</link>
-			<pubDate>Tue, 23 Jul 2019 15:58:55 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/on-tour-john-mayer-debuts-improvised-free-bird-guy-song</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[At his summer tour date in Philadelphia, PA, John Mayer filled the Wells Fargo Center with incredible musicianship and lots of laughs. Two fulls sets made for a 2 and 1/2 hour setlist, and left time for an improvised “Free Bird” jam. ]]></description>
-			<content:encoded><![CDATA[  <p>“Thank you all for allowing me to be a part of your well-balanced breakfast,” <a href="https://www.radio.com/music/john-mayer-admits-why-hes-still-single-with-just-two-words"><strong>John Mayer</strong></a> told a packed crowd of 19,000 fans. The singer-songwriter praised the younger generation for their eclectic mix of interests. From nostalgia to the cutting edge, their open-minded tastes are even more diverse than the crowd of people that came together to prove a shared love of John Mayer is seemingly the only thing that unites everyone.</p>
+]]>
+      </lead>
+      <category>Shaquille O&apos;Neal</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Bob Diehl</dc:creator>
+      <editorialFeeds>Rock</editorialFeeds>
+      <editorialFeeds>Alternative</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix On Tour: John Mayer Debuts Improvised Ode to the Fan That Yells ‘Play Free Bird’]]>
+      </title>
+      <link>https://www.radio.com/music/on-tour-john-mayer-debuts-improvised-free-bird-guy-song</link>
+      <pubDate>Tue, 23 Jul 2019 15:58:55 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/on-tour-john-mayer-debuts-improvised-free-bird-guy-song</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[At his summer tour date in Philadelphia, PA, John Mayer filled the Wells Fargo Center with incredible musicianship and lots of laughs. Two fulls sets made for a 2 and 1/2 hour setlist, and left time for an improvised “Free Bird” jam. ]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>“Thank you all for allowing me to be a part of your well-balanced breakfast,” <a href="https://www.radio.com/music/john-mayer-admits-why-hes-still-single-with-just-two-words"><strong>John Mayer</strong></a> told a packed crowd of 19,000 fans. The singer-songwriter praised the younger generation for their eclectic mix of interests. From nostalgia to the cutting edge, their open-minded tastes are even more diverse than the crowd of people that came together to prove a shared love of John Mayer is seemingly the only thing that unites everyone.</p>
 <div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
@@ -1046,14 +1231,18 @@ height="150"></iframe>
         <cite class="credit">Photo credit Tiana Timmerberg, RADIO.COM</cite>
       </figcaption>
 </div>  <p>“I’m John Mayer, and I’m ready to be a star!” a clip of the iconic video announces to conclude the night. Two full sets presents something for everyone, and overheard murmurs had dozens of attendees reeling from the fact that “all of their favorite songs” were played. Even the most casual listeners found themselves captivated for the full show, and the stadium stayed packed all the way through the encore. <a href="https://www.johnmayer.com/">Click here</a> for the remaining tour dates.</p>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>Why even the most casual listeners need to see him live</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 On Tour: John Mayer Debuts Improvised ‘Free Bird Guy’ Song]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/DSC3730-94eb90de-aefa-420b-9e95-83605fb5b4dd.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>Why even the most casual listeners need to see him live</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 On Tour: John Mayer Debuts Improvised ‘Free Bird Guy’ Song]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/DSC3730-94eb90de-aefa-420b-9e95-83605fb5b4dd.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/DSC3730-7281ff47-a62c-43a3-83e2-451def0fd68c.jpg?width=800" alt="John Mayer plays Wells Fargo Center, Philadelphia, PA ">
@@ -1063,23 +1252,29 @@ height="150"></iframe>
         
         <cite class="credit">Photo credit Tiana Timmerberg, RADIO.COM</cite>
       </figcaption>
-</div>]]></lead>
-			<category>John Mayer</category>
-			<category>On Tour</category>
-			<category>Pop</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Tiana Timmerberg</dc:creator>
-			<editorialFeeds>AC</editorialFeeds>
-			<editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
-		</item>
-		<item>
-			<title><![CDATA[ALOHOMORA The Title of Track 5 from Taylor Swift's 'Lover' Appears to Leak Before She Can Announce It]]></title>
-			<link>https://www.radio.com/music/the-title-of-track-5-from-taylor-swift-lover-leaked</link>
-			<pubDate>Tue, 23 Jul 2019 15:53:30 +0000</pubDate>
-			<guid isPermaLink="false">https://my.radio.com/music/the-title-of-track-5-from-taylor-swift-lover-leaked</guid>
-			<syndicatedUrl/>
-			<description><![CDATA[Did we just learn the name of the next Taylor Swift song?]]></description>
-			<content:encoded><![CDATA[  <p>On Monday, <strong>Taylor Swift</strong> set a date for some news she is “reeeeeally excited” to share.</p>
+</div>]]>
+      </lead>
+      <category>John Mayer</category>
+      <category>On Tour</category>
+      <category>Pop</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Tiana Timmerberg</dc:creator>
+      <editorialFeeds>AC</editorialFeeds>
+      <editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Bellatrix The Title of Track 5 from Taylor Swift's 'Lover' Appears to Leak Before She Can Announce It]]>
+      </title>
+      <link>https://www.radio.com/music/the-title-of-track-5-from-taylor-swift-lover-leaked</link>
+      <pubDate>Tue, 23 Jul 2019 15:53:30 +0000</pubDate>
+      <guid isPermaLink="false">https://my.radio.com/music/the-title-of-track-5-from-taylor-swift-lover-leaked</guid>
+      <syndicatedUrl />
+      <description>
+        <![CDATA[Did we just learn the name of the next Taylor Swift song?]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>On Monday, <strong>Taylor Swift</strong> set a date for some news she is “reeeeeally excited” to share.</p>
   <p>The singer posted a clip of the Number 5 bullseye from her “<a href="https://www.radio.com/blogs/michael-cerio/taylor-swift-makes-peace-katy-perry-and-has-pride-party-you-need-calm-down-video">You Need To Calm Down</a>” video, calling the image an easter egg and promising to reveal the details during an Instagram Live at 5 PM EST on Tuesday afternoon.</p>
 <aside class="component--instagram-post">
   <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B0OSaoijJ8I/" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/B0OSaoijJ8I/" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/B0OSaoijJ8I/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I’m going live tomorrow, July 23 at 5pm ET! I have some stuff I’m reeeeeally excited to tell you about, including some info on this Easter egg right here. 🏹🎯👀⬆️</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/taylorswift/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Taylor Swift</a> (@taylorswift) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-22T14:59:42+00:00">Jul 22, 2019 at 7:59am PDT</time></p></div></blockquote>
@@ -1105,14 +1300,18 @@ height="150"></iframe>
         <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6030022655001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
   </div>
 </div>
-]]></content:encoded>
-			<stationUrl/>
-			<stationTitle></stationTitle>
-			<subHeadline>Has the next song from Swift&apos;s upcoming album been revealed?</subHeadline>
-			<seoHeadline><![CDATA[QA1.64 The Title of Track 5 from Taylor Swift's 'Lover' Leaked?]]></seoHeadline>
-			<coverImage>https://images.radio.com/aiu-media/TaylorSwift072219-ec812eb8-f4b3-4962-8315-5388d15ce94e.jpg</coverImage>
-			<featured>true</featured>
-			<lead><![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>Has the next song from Swift&apos;s upcoming album been revealed?</subHeadline>
+      <seoHeadline>
+        <![CDATA[QA1.64 The Title of Track 5 from Taylor Swift's 'Lover' Leaked?]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/TaylorSwift072219-ec812eb8-f4b3-4962-8315-5388d15ce94e.jpg</coverImage>
+      <featured>true</featured>
+      <lead>
+        <![CDATA[<div itemscope itemtype="http://schema.org/ImageObject" data-editable="inlinestuff">
     <div class="image-wrapper">
         
           <img src="https://images.radio.com/aiu-media/TaylorSwift072219-d067b7d1-3385-48c7-ac44-b0c6323ff1c6.jpg?width=800" alt="Taylor Swift attends the 2019 Billboard Music Awards at MGM Grand Garden Arena">
@@ -1122,13 +1321,14 @@ height="150"></iframe>
         
         <cite class="credit">Photo credit <a href="https://www.gettyimages.com/search/photographer?family=editorial&amp;photographer=Frazer+Harrison">Frazer Harrison</a> / Staff</cite>
       </figcaption>
-</div>]]></lead>
-			<category>Pop</category>
-			<category>Taylor Swift</category>
-			<dc:creator>Rita Skeeter</dc:creator>
-			<dc:creator>Michael Cerio</dc:creator>
-			<editorialFeeds>AC</editorialFeeds>
-			<editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
-		</item>
-	</channel>
+</div>]]>
+      </lead>
+      <category>Pop</category>
+      <category>Taylor Swift</category>
+      <dc:creator>Joe Hyer</dc:creator>
+      <dc:creator>Michael Cerio</dc:creator>
+      <editorialFeeds>AC</editorialFeeds>
+      <editorialFeeds>Hot AC / Top 40 / CHR</editorialFeeds>
+    </item>
+  </channel>
 </rss>
