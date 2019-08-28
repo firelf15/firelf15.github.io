@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Radio.com Reverse Chron Feed</title>
+    <description>Most recent content from Radio.com</description>
+    <link>https://dev-clay.radio.com</link>
+    <lastBuildDate>Tue, 27 Aug 2019 14:21:15 +0000</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <copyright>2019</copyright>
+    <generator>Feed delivered by Clay</generator>
+    <category>To Do,weekend</category>
+    <category>Pop,Lady Gaga,pop</category>
+    <category>Dr. Cranfill,Megan Holiday</category>
+    <category>Sports,Big Time Baseball,MLB,Atlanta Braves,Trade Deadline</category>
+    <item>
+      <title>
+        <![CDATA[Another slug test]]>
+      </title>
+      <link>https://dev-clay.radio.com/music/another-slug-test</link>
+      <pubDate>Mon, 26 Aug 2019 16:53:00 +0000</pubDate>
+      <guid isPermaLink="false">cjzsmm7b3001fabp63tvwcgx3</guid>
+      <syndicatedUrl></syndicatedUrl>
+      <description>
+        <![CDATA[Another slug test]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>This is a paragraph</p>
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>subheadline</subHeadline>
+      <seoHeadline>
+        <![CDATA[Another slug test]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/TaylorSwift-33968935-4051-4b0c-a1ee-f0940fe51592.jpg?width=800</coverImage>
+      <featured></featured>
+      <lead>
+        <![CDATA[<div class="component--brightcove">
+  <div class="player">
+        <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=5979172469001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
+  </div>
+</div>
+]]>
+      </lead>
+      <dc:creator>Victoria Benecke</dc:creator>
+    </item>
+    <item>
+      <title>
+        <![CDATA[VB Slug test]]>
+      </title>
+      <link>https://dev-clay.radio.com/music/vb-slug-test</link>
+      <pubDate>Mon, 26 Aug 2019 16:23:00 +0000</pubDate>
+      <guid isPermaLink="false">cjzsm0wfr000fabp6zeliqqf1</guid>
+      <syndicatedUrl></syndicatedUrl>
+      <description>
+        <![CDATA[VB Slug test]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>This is a paragraph</p>
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>This is a sub headline</subHeadline>
+      <seoHeadline>
+        <![CDATA[VB Slug test updated]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/TaylorSwift-33968935-4051-4b0c-a1ee-f0940fe51592.jpg?width=800</coverImage>
+      <featured></featured>
+      <lead>
+        <![CDATA[<div class="component--brightcove">
+  <div class="player">
+        <iframe src="https://players.brightcove.net/5757251889001/9klBjvbUGf_default/index.html?videoId=6053117126001" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="width: 640px; height: 360px;"></iframe>
+  </div>
+</div>
+]]>
+      </lead>
+      <dc:creator>Victoria Benecke</dc:creator>
+    </item>
+    <item>
+      <title>
+        <![CDATA[HTML Embed in Lede 2]]>
+      </title>
+      <link>https://dev-clay.radio.com/news/lede-2</link>
+      <pubDate>Mon, 26 Aug 2019 13:16:00 +0000</pubDate>
+      <guid isPermaLink="false">cjzsfda2i000va9qrcawvqpku</guid>
+      <syndicatedUrl></syndicatedUrl>
+      <description>
+        <![CDATA[Lede 2]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>This is a paragraph</p>
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>This is a sub-headline</subHeadline>
+      <seoHeadline>
+        <![CDATA[Lede 2]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/TextingEmojis-54307440-f0e0-4901-bf3f-f993a9c8a3c1.jpg?width=800</coverImage>
+      <featured></featured>
+      <lead>
+        <![CDATA[<div class="component--html-embed">
+    <div class="html-embed__iframe-container">
+      <div class="iframe-container__padded-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/g5b7yS5xgI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+</div>
+]]>
+      </lead>
+      <dc:creator>Victoria Benecke</dc:creator>
+    </item>
+    <item>
+      <title>
+        <![CDATA[HTML Embed in Lede]]>
+      </title>
+      <link>https://dev-clay.radio.com/news/html-embed-in-lede</link>
+      <pubDate>Mon, 26 Aug 2019 13:09:00 +0000</pubDate>
+      <guid isPermaLink="false">cjzsf1vey000fa9qryt2ays5b</guid>
+      <syndicatedUrl></syndicatedUrl>
+      <description>
+        <![CDATA[HTML Embed in Lede]]>
+      </description>
+      <content:encoded>
+        <![CDATA[  <p>This is a paragraph</p>
+]]>
+      </content:encoded>
+      <stationUrl />
+      <stationTitle></stationTitle>
+      <subHeadline>This is a sub-headline</subHeadline>
+      <seoHeadline>
+        <![CDATA[HTML Embed in Lede]]>
+      </seoHeadline>
+      <coverImage>https://images.radio.com/aiu-media/StarbucksCoffee-a05016b4-c36e-4975-8942-5ded68a0056c.jpg?width=800</coverImage>
+      <featured></featured>
+      <lead>
+        <![CDATA[<div class="component--html-embed">
+    <div class="html-embed__iframe-container">
+      <div class="iframe-container__padded-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/posOq6F8aEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+</div>
+]]>
+      </lead>
+      <dc:creator>Victoria Benecke</dc:creator>
+    </item>
+  </channel>
+</rss>
