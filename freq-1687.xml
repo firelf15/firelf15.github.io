@@ -39,9 +39,9 @@
       <uri>http://www.ap.org</uri>
    </author>
    <rights>Copyright 2019 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</rights>
-   <link rel="self" href="https://firelf15.github.io/freq-1687.xml?idList=42428%2C42429%2C42430%2C42431%2C42432%2C42433%2C42434%2C42435%2C42436%2C42437%2C42438&amp;idListType=products&amp;maxItems=25&amp;fullContent=true" />
+   <link rel="self" href="http://syndication.ap.org/AP.Distro.Feed/GetFeed.aspx?idList=42428%2C42429%2C42430%2C42431%2C42432%2C42433%2C42434%2C42435%2C42436%2C42437%2C42438&amp;idListType=products&amp;maxItems=25&amp;fullContent=true" />
    <entry>
-      <id>urn:publicid:ap.org:d77ab5eb440045178b41bb1aa04699ff</id>
+      <id>urn:publicid:ap.org:d77ab5eb440045178b41bb1aa04699f8</id>
       <title>AS--Hong Kong-Protests</title>
       <updated>2019-10-07T14:48:13.712Z</updated>
       <published>2019-10-07T14:48:03Z</published>
@@ -62,7 +62,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO Hong Kong police: not aware of any military plans by China</hl1>
+                     <hl1 id="headline">CHARLIE Hong Kong police: not aware of any military plans by China</hl1>
                      <hl2 id="originalHeadline">Hong Kong police: not aware of any military plans by China</hl2>
                   </hedline>
                   <byline>
@@ -385,7 +385,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42437" Value="AP Top News - General - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328609" />
-         <apcm:FirstCreated>2019-10-07T14:48:03Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:48:03Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:8039863dc42e483fb54b7d7086a83729</apnm:ManagementId>
@@ -402,7 +402,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:61cea06d13dc4e27ae187e4275093746</id>
+      <id>urn:publicid:ap.org:61cea06d13dc4e27ae187e4275093748</id>
       <title>US--Earns-Walmart</title>
       <updated>2019-10-07T14:47:03.092Z</updated>
       <published>2019-10-07T14:46:49Z</published>
@@ -423,7 +423,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO Walmart delivers big in 2Q</hl1>
+                     <hl1 id="headline">CHARLIE Walmart delivers big in 2Q</hl1>
                      <hl2 id="originalHeadline">Walmart delivers big in 2Q</hl2>
                   </hedline>
                   <byline>
@@ -590,7 +590,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328541" />
-         <apcm:FirstCreated>2019-10-07T14:46:49Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:46:49Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:c9cdfab97e84bcca8737b473065c2bc6</apnm:ManagementId>
@@ -607,7 +607,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:80fbb2bba0004290a8757b8e3a0df3df</id>
+      <id>urn:publicid:ap.org:80fbb2bba0004290a8757b8e3a0df3d8</id>
       <title>Persian Gulf-Tensions-The Latest</title>
       <updated>2019-10-07T14:42:06.175Z</updated>
       <published>2019-10-07T14:41:55Z</published>
@@ -627,7 +627,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO The Latest: Gibraltar paper reports Iranian tanker released</hl1>
+                     <hl1 id="headline">CHARLIE The Latest: Gibraltar paper reports Iranian tanker released</hl1>
                      <hl2 id="originalHeadline">The Latest: Gibraltar paper reports Iranian tanker released</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -756,7 +756,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:d99d06550b9e449786d99176f413c38e</id>
+      <id>urn:publicid:ap.org:d99d06550b9e449786d99176f413c388</id>
       <title>US--Retail Sales</title>
       <updated>2019-10-07T14:41:32.777Z</updated>
       <published>2019-10-07T14:41:22Z</published>
@@ -777,7 +777,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO US retail sales rise strongly in sign of consumer optimism</hl1>
+                     <hl1 id="headline">CHARLIE US retail sales rise strongly in sign of consumer optimism</hl1>
                      <hl2 id="originalHeadline">US retail sales rise strongly in sign of consumer optimism</hl2>
                   </hedline>
                   <byline>
@@ -973,7 +973,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328187" />
-         <apcm:FirstCreated>2019-10-07T14:41:22Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:41:22Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:ce595bd0d5ff414f92036a174c4497bd</apnm:ManagementId>
@@ -990,7 +990,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:e03f01f019ea499890b2575edfd71d30</id>
+      <id>urn:publicid:ap.org:e03f01f019ea499890b2575edfd71d38</id>
       <title>AS--Hong Kong-Economy</title>
       <updated>2019-10-07T14:41:25.614Z</updated>
       <published>2019-10-07T14:41:13Z</published>
@@ -1011,7 +1011,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO Hong Kong cuts taxes to shore up economy amid protests</hl1>
+                     <hl1 id="headline">CHARLIE Hong Kong cuts taxes to shore up economy amid protests</hl1>
                      <hl2 id="originalHeadline">Hong Kong cuts taxes to shore up economy amid protests</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -1135,7 +1135,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328156" />
-         <apcm:FirstCreated>2019-10-07T14:41:13Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:41:13Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:f8329eccdc9f43ad89d0866093dd002c</apnm:ManagementId>
@@ -1152,7 +1152,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:43e4d87de0024fb6a2796949b71e44e4</id>
+      <id>urn:publicid:ap.org:43e4d87de0024fb6a2796949b71e44e8</id>
       <title>EU--Russia-Venezuela</title>
       <updated>2019-10-07T14:38:18.717Z</updated>
       <published>2019-10-07T14:38:12Z</published>
@@ -1173,7 +1173,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO Russian and Venezuelan defense chiefs meet to discuss ties</hl1>
+                     <hl1 id="headline">CHARLIE Russian and Venezuelan defense chiefs meet to discuss ties</hl1>
                      <hl2 id="originalHeadline">Russian and Venezuelan defense chiefs meet to discuss ties</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -1249,7 +1249,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327904" />
-         <apcm:FirstCreated>2019-10-07T14:38:12Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:38:12Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:c20372a59c3f46c2a0ad42f685ce2ebe</apnm:ManagementId>
@@ -1260,7 +1260,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:39b21006011f4316b6f03b9d6eb0389a</id>
+      <id>urn:publicid:ap.org:39b21006011f4316b6f03b9d6eb03898</id>
       <title>Financial-Markets</title>
       <updated>2019-10-07T14:34:47.790Z</updated>
       <published>2019-10-07T14:34:37Z</published>
@@ -1281,7 +1281,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO US stocks steady after plunge, but caution still reigns</hl1>
+                     <hl1 id="headline">CHARLIE US stocks steady after plunge, but caution still reigns</hl1>
                      <hl2 id="originalHeadline">US stocks steady after plunge, but caution still reigns</hl2>
                   </hedline>
                   <byline>
@@ -1403,7 +1403,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42437" Value="AP Top News - General - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327639" />
-         <apcm:FirstCreated>2019-10-07T14:34:38Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:34:38Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:5fa760bc103c4c4a97fcdeeba2e41c42</apnm:ManagementId>
@@ -1414,7 +1414,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:0317d1cfc3a34e1ca4bb339ebc33d473</id>
+      <id>urn:publicid:ap.org:0317d1cfc3a34e1ca4bb339ebc33d478</id>
       <title>EU--Germany-Politics</title>
       <updated>2019-10-07T14:34:15.691Z</updated>
       <published>2019-10-07T14:34:10Z</published>
@@ -1435,7 +1435,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO German minister offers to resign if university revokes title</hl1>
+                     <hl1 id="headline">CHARLIE German minister offers to resign if university revokes title</hl1>
                      <hl2 id="originalHeadline">German minister offers to resign if university revokes title</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -1500,7 +1500,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327605" />
-         <apcm:FirstCreated>2019-10-07T14:34:10Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:34:10Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:1c8ff62397924fe38c0b46e58799c922</apnm:ManagementId>
@@ -1511,7 +1511,7 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:d5c2ccec3df5485fb8d918cdf6209274</id>
+      <id>urn:publicid:ap.org:d5c2ccec3df5485fb8d918cdf6209278</id>
       <title>APFN-US--Industrial Production</title>
       <updated>2019-10-07T14:29:56.679Z</updated>
       <published>2019-10-07T14:29:49Z</published>
@@ -1532,7 +1532,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">BRAVO US industrial output fell 0.2% in July as factories struggle</hl1>
+                     <hl1 id="headline">CHARLIE US industrial output fell 0.2% in July as factories struggle</hl1>
                      <hl2 id="originalHeadline">US industrial output fell 0.2% in July as factories struggle</hl2>
                   </hedline>
                   <byline>
@@ -1633,7 +1633,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327262" />
-         <apcm:FirstCreated>2019-10-07T14:29:49Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:29:49Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:fc54d8ad79cf42e18fd583f032d1fc28</apnm:ManagementId>
