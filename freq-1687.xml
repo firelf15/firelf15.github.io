@@ -39,9 +39,9 @@
       <uri>http://www.ap.org</uri>
    </author>
    <rights>Copyright 2019 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</rights>
-   <link rel="self" href="http://syndication.ap.org/AP.Distro.Feed/GetFeed.aspx?idList=42428%2C42429%2C42430%2C42431%2C42432%2C42433%2C42434%2C42435%2C42436%2C42437%2C42438&amp;idListType=products&amp;maxItems=25&amp;fullContent=true" />
+   <link rel="self" href="https://firelf15.github.io/freq-1687.xml?idList=42428%2C42429%2C42430%2C42431%2C42432%2C42433%2C42434%2C42435%2C42436%2C42437%2C42438&amp;idListType=products&amp;maxItems=25&amp;fullContent=true" />
    <entry>
-      <id>urn:publicid:ap.org:d77ab5eb440045178b41bb1aa04699fe</id>
+      <id>urn:publicid:ap.org:d77ab5eb440045178b41bb1aa04699ff</id>
       <title>AS--Hong Kong-Protests</title>
       <updated>2019-10-07T14:48:13.712Z</updated>
       <published>2019-10-07T14:48:03Z</published>
@@ -744,7 +744,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42437" Value="AP Top News - General - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328264" />
-         <apcm:FirstCreated>2019-10-07T14:41:55Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:41:55Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:Signal>Derived</apnm:Signal>
