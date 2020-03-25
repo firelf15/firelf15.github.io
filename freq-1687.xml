@@ -29,11 +29,11 @@
       <apcm:Property Name="Entitlement" Id="urn:publicid:ap.org:product:42437" Value="AP Top News - General - Stories" />
       <apcm:Property Name="Entitlement" Id="urn:publicid:ap.org:product:42438" Value="AP Top News - US Headlines - Stories" />
       <apcm:Property Name="FeedSequencing">
-         <apcm:Property Name="sequenceNumber" Id="70328609" />
-         <apcm:Property Name="minDateTime" Value="2019-08-15T14:48:13.712Z" />
+         <apcm:Property Name="sequenceNumber" Id="70328610" />
+         <apcm:Property Name="minDateTime" Value="2019-10-07T14:48:13.712Z" />
       </apcm:Property>
    </apcm:Property>
-   <updated>2019-08-15T14:48:13.712Z</updated>
+   <updated>2019-10-07T14:48:13.712Z</updated>
    <author>
       <name>The Associated Press</name>
       <uri>http://www.ap.org</uri>
@@ -41,10 +41,10 @@
    <rights>Copyright 2019 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</rights>
    <link rel="self" href="http://syndication.ap.org/AP.Distro.Feed/GetFeed.aspx?idList=42428%2C42429%2C42430%2C42431%2C42432%2C42433%2C42434%2C42435%2C42436%2C42437%2C42438&amp;idListType=products&amp;maxItems=25&amp;fullContent=true" />
    <entry>
-      <id>urn:publicid:ap.org:d77ab5eb440045178b41bb1aa04699fe</id>
+      <id>urn:publicid:ap.org:d77ab5eb440045178b41bb1aa04699f8</id>
       <title>AS--Hong Kong-Protests</title>
-      <updated>2019-08-15T14:48:13.712Z</updated>
-      <published>2019-08-15T14:48:03Z</published>
+      <updated>2019-10-07T14:48:13.712Z</updated>
+      <published>2019-10-07T14:48:03Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -54,7 +54,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T144803Z" />
+                  <date.issue norm="20191007T144803Z" />
                   <ed-msg info="Eds: Corrects that economic forecast was reduced to 0 to 1%, not to 0%. With AP Photos." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -62,7 +62,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">Hong Kong police: not aware of any military plans by China</hl1>
+                     <hl1 id="headline">CHARLIE Hong Kong police: not aware of any military plans by China</hl1>
                      <hl2 id="originalHeadline">Hong Kong police: not aware of any military plans by China</hl2>
                   </hedline>
                   <byline>
@@ -84,17 +84,17 @@
                      <media-metadata id="media-metadata-Format:c5ab88694dc64b5da6b98037c398de1e" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:c5ab88694dc64b5da6b98037c398de1e" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:c5ab88694dc64b5da6b98037c398de1e" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:c5ab88694dc64b5da6b98037c398de1e" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=c5ab88694dc64b5da6b98037c398de1e&amp;iid=75e0e60d962649019fbd51787649876c&amp;rsn=0&amp;recordid=75e0e60d962649019fbd51787649876c&amp;filingId=2dc73458bc9e4a4fa4b06f966adc0253&amp;role=Main&amp;reldt=2019-08-15T07:26:01&amp;media=Photo&amp;sz=4779553&amp;dest=ak&amp;trF=XVY109&amp;ofn=Hong_Kong_Protests_39539.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/c5ab88694dc64b5da6b98037c398de1e.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK69qJB0ss7IgPoCZxpQyQqqUqQx7Pwu3X7auMwUNAFibvPQlQz1UzzSlGFjeVzG5KVNzMSVz0GDJKLAbWWy0KAEyxH7ve3h%2fbcns95lLb87S0mJW9H1UD4TSOfT31ej%2bXy7%2fUVXGQcUAZQMIPBDIpFQ%3d%3d" alternate-text="Benny Tai" height="4039" width="5847" coding="jpg" />
+                     <media-reference id="media-reference:c5ab88694dc64b5da6b98037c398de1e" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=c5ab88694dc64b5da6b98037c398de1e&amp;iid=75e0e60d962649019fbd51787649876c&amp;rsn=0&amp;recordid=75e0e60d962649019fbd51787649876c&amp;filingId=2dc73458bc9e4a4fa4b06f966adc0253&amp;role=Main&amp;reldt=2019-10-07T07:26:01&amp;media=Photo&amp;sz=4779553&amp;dest=ak&amp;trF=XVY109&amp;ofn=Hong_Kong_Protests_39539.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/c5ab88694dc64b5da6b98037c398de1e.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK69qJB0ss7IgPoCZxpQyQqqUqQx7Pwu3X7auMwUNAFibvPQlQz1UzzSlGFjeVzG5KVNzMSVz0GDJKLAbWWy0KAEyxH7ve3h%2fbcns95lLb87S0mJW9H1UD4TSOfT31ej%2bXy7%2fUVXGQcUAZQMIPBDIpFQ%3d%3d" alternate-text="Benny Tai" height="4039" width="5847" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:b1efe1e480334c21aec2659cb2e9650e" name="OriginalFileName" value="Hong_Kong_Protests_39539.jpg" />
                      <media-metadata id="media-metadata-Format:b1efe1e480334c21aec2659cb2e9650e" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:b1efe1e480334c21aec2659cb2e9650e" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:b1efe1e480334c21aec2659cb2e9650e" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:b1efe1e480334c21aec2659cb2e9650e" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=b1efe1e480334c21aec2659cb2e9650e&amp;iid=75e0e60d962649019fbd51787649876c&amp;rsn=0&amp;recordid=75e0e60d962649019fbd51787649876c&amp;filingId=2dc73458bc9e4a4fa4b06f966adc0253&amp;role=Preview&amp;reldt=2019-08-15T07:26:01&amp;media=Photo&amp;sz=58439&amp;dest=ak&amp;trF=XVY109&amp;ofn=Hong_Kong_Protests_39539.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/b1efe1e480334c21aec2659cb2e9650e.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzsOAiEQANDL2EKYGT5LMYmNvfECZoEhoVA2rhssOLwxsX9vyoc9BQOBfPTOGOMiuJkbJ5AqIFYthkjZjKBWyai8izmh%2fLDM3goDgHfLPHa%2bPN%2fyyv1xW0vr9yGpipR9Ho2DI4s4t8Hn66inf2kbk46oKWqI4Qv8jCj6" alternate-text="Benny Tai" height="354" width="512" coding="jpg" />
+                     <media-reference id="media-reference:b1efe1e480334c21aec2659cb2e9650e" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=b1efe1e480334c21aec2659cb2e9650e&amp;iid=75e0e60d962649019fbd51787649876c&amp;rsn=0&amp;recordid=75e0e60d962649019fbd51787649876c&amp;filingId=2dc73458bc9e4a4fa4b06f966adc0253&amp;role=Preview&amp;reldt=2019-10-07T07:26:01&amp;media=Photo&amp;sz=58439&amp;dest=ak&amp;trF=XVY109&amp;ofn=Hong_Kong_Protests_39539.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/b1efe1e480334c21aec2659cb2e9650e.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzsOAiEQANDL2EKYGT5LMYmNvfECZoEhoVA2rhssOLwxsX9vyoc9BQOBfPTOGOMiuJkbJ5AqIFYthkjZjKBWyai8izmh%2fLDM3goDgHfLPHa%2bPN%2fyyv1xW0vr9yGpipR9Ho2DI4s4t8Hn66inf2kbk46oKWqI4Qv8jCj6" alternate-text="Benny Tai" height="354" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:ddbeccc38d1e44a595c2587ea937342d" name="OriginalFileName" value="Hong_Kong_Protests_39539.jpg" />
                      <media-metadata id="media-metadata-Format:ddbeccc38d1e44a595c2587ea937342d" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:ddbeccc38d1e44a595c2587ea937342d" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:ddbeccc38d1e44a595c2587ea937342d" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:ddbeccc38d1e44a595c2587ea937342d" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=ddbeccc38d1e44a595c2587ea937342d&amp;iid=75e0e60d962649019fbd51787649876c&amp;rsn=0&amp;recordid=75e0e60d962649019fbd51787649876c&amp;filingId=2dc73458bc9e4a4fa4b06f966adc0253&amp;role=Thumbnail&amp;reldt=2019-08-15T07:26:01&amp;media=Photo&amp;sz=12193&amp;dest=ak&amp;trF=XVY109&amp;ofn=Hong_Kong_Protests_39539.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/ddbeccc38d1e44a595c2587ea937342d.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK4zqpB0ss7IgPoDR2pQyQilKVIY%2bHgf2u20ciJg8JI0fy3hMD9VJFdbZSCrpJwdw4ZnJMJTiakmXGhGPQ3qoKAESa%2br7J5fm2V2mPW9ba7ofNi5lufa%2bS6MdDXw85X4%2fl9C91FRw4DMgDcPoCHvIpOQ%3d%3d" alternate-text="Benny Tai" height="86" width="125" coding="jpg" />
+                     <media-reference id="media-reference:ddbeccc38d1e44a595c2587ea937342d" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=ddbeccc38d1e44a595c2587ea937342d&amp;iid=75e0e60d962649019fbd51787649876c&amp;rsn=0&amp;recordid=75e0e60d962649019fbd51787649876c&amp;filingId=2dc73458bc9e4a4fa4b06f966adc0253&amp;role=Thumbnail&amp;reldt=2019-10-07T07:26:01&amp;media=Photo&amp;sz=12193&amp;dest=ak&amp;trF=XVY109&amp;ofn=Hong_Kong_Protests_39539.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/ddbeccc38d1e44a595c2587ea937342d.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK4zqpB0ss7IgPoDR2pQyQilKVIY%2bHgf2u20ciJg8JI0fy3hMD9VJFdbZSCrpJwdw4ZnJMJTiakmXGhGPQ3qoKAESa%2br7J5fm2V2mPW9ba7ofNi5lufa%2bS6MdDXw85X4%2fl9C91FRw4DMgDcPoCHvIpOQ%3d%3d" alternate-text="Benny Tai" height="86" width="125" coding="jpg" />
                      <media-caption id="media-caption:75e0e60d962649019fbd51787649876c">
                         <p>Occupy Central leader Benny Tai, center, talks to reporters outside the High court in Hong Kong Thursday, Aug.15, 2019. Tai, a top opposition leader imprisoned on public disorder charges was released on bail Thursday as Hong Kong's government attempts to quell a protest movement that has paralyzed parts of the territory, including its international airport, and led to hundreds of arrests. (AP Photo/Vincent Yu)</p>
                      </media-caption>
@@ -109,17 +109,17 @@
                      <media-metadata id="media-metadata-Format:67326d3e034a47fe922659d2441ccac1" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:67326d3e034a47fe922659d2441ccac1" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:67326d3e034a47fe922659d2441ccac1" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:67326d3e034a47fe922659d2441ccac1" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=67326d3e034a47fe922659d2441ccac1&amp;iid=db39d08f61c8426d82b079249b8a1850&amp;rsn=0&amp;recordid=db39d08f61c8426d82b079249b8a1850&amp;filingId=1f49aeab0cdb416f9cc1797b5be2d286&amp;role=Main&amp;reldt=2019-08-15T07:17:17&amp;media=Photo&amp;sz=8299536&amp;dest=ak&amp;trF=XVY108&amp;ofn=Hong_Kong_Protests_22774.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/67326d3e034a47fe922659d2441ccac1.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK7cTBgyUWdsQHUEgcKQO0aqnKkMezcPsN%2bypT8pCIhaP3PgrEUbpyIuRK5jyF7EJq5gSRXZSKIUApucCYe1UA4Hge%2b6bX98fWMr%2fuufb5cdizmdVt7F1TpIA4lkMvt6Od%2fqUvSpPgRDKBpB%2b%2fHyhu" alternate-text="Benny Tai" height="4480" width="6567" coding="jpg" />
+                     <media-reference id="media-reference:67326d3e034a47fe922659d2441ccac1" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=67326d3e034a47fe922659d2441ccac1&amp;iid=db39d08f61c8426d82b079249b8a1850&amp;rsn=0&amp;recordid=db39d08f61c8426d82b079249b8a1850&amp;filingId=1f49aeab0cdb416f9cc1797b5be2d286&amp;role=Main&amp;reldt=2019-10-07T07:17:17&amp;media=Photo&amp;sz=8299536&amp;dest=ak&amp;trF=XVY108&amp;ofn=Hong_Kong_Protests_22774.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/67326d3e034a47fe922659d2441ccac1.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK7cTBgyUWdsQHUEgcKQO0aqnKkMezcPsN%2bypT8pCIhaP3PgrEUbpyIuRK5jyF7EJq5gSRXZSKIUApucCYe1UA4Hge%2b6bX98fWMr%2fuufb5cdizmdVt7F1TpIA4lkMvt6Od%2fqUvSpPgRDKBpB%2b%2fHyhu" alternate-text="Benny Tai" height="4480" width="6567" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:6ebb8fbdae3a45a9a3fc3e002764ed1a" name="OriginalFileName" value="Hong_Kong_Protests_22774.jpg" />
                      <media-metadata id="media-metadata-Format:6ebb8fbdae3a45a9a3fc3e002764ed1a" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:6ebb8fbdae3a45a9a3fc3e002764ed1a" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:6ebb8fbdae3a45a9a3fc3e002764ed1a" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:6ebb8fbdae3a45a9a3fc3e002764ed1a" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=6ebb8fbdae3a45a9a3fc3e002764ed1a&amp;iid=db39d08f61c8426d82b079249b8a1850&amp;rsn=0&amp;recordid=db39d08f61c8426d82b079249b8a1850&amp;filingId=1f49aeab0cdb416f9cc1797b5be2d286&amp;role=Preview&amp;reldt=2019-08-15T07:17:17&amp;media=Photo&amp;sz=64620&amp;dest=ak&amp;trF=XVY108&amp;ofn=Hong_Kong_Protests_22774.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/6ebb8fbdae3a45a9a3fc3e002764ed1a.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzsOAiEQANDL2EIYZhmWYhIbe%2bMFDJ8hoVA2u26w4PA2vv5N%2bTKhN%2bCRAjljjAvgZm5MktJaU1FRMKrFxaAi1qxQjLGeFikQZ2%2bFAYDcOs%2bDb%2b%2bP7Lm%2fHrG0%2fhySqkg55tnYO1ysndvg633Uy7%2b0jVEHqzFoCP4HRywptA%3d%3d" alternate-text="Benny Tai" height="349" width="512" coding="jpg" />
+                     <media-reference id="media-reference:6ebb8fbdae3a45a9a3fc3e002764ed1a" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=6ebb8fbdae3a45a9a3fc3e002764ed1a&amp;iid=db39d08f61c8426d82b079249b8a1850&amp;rsn=0&amp;recordid=db39d08f61c8426d82b079249b8a1850&amp;filingId=1f49aeab0cdb416f9cc1797b5be2d286&amp;role=Preview&amp;reldt=2019-10-07T07:17:17&amp;media=Photo&amp;sz=64620&amp;dest=ak&amp;trF=XVY108&amp;ofn=Hong_Kong_Protests_22774.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/6ebb8fbdae3a45a9a3fc3e002764ed1a.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzsOAiEQANDL2EIYZhmWYhIbe%2bMFDJ8hoVA2u26w4PA2vv5N%2bTKhN%2bCRAjljjAvgZm5MktJaU1FRMKrFxaAi1qxQjLGeFikQZ2%2bFAYDcOs%2bDb%2b%2bP7Lm%2fHrG0%2fhySqkg55tnYO1ysndvg633Uy7%2b0jVEHqzFoCP4HRywptA%3d%3d" alternate-text="Benny Tai" height="349" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:2bbfded5996b453da1dd02952213c530" name="OriginalFileName" value="Hong_Kong_Protests_22774.jpg" />
                      <media-metadata id="media-metadata-Format:2bbfded5996b453da1dd02952213c530" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:2bbfded5996b453da1dd02952213c530" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:2bbfded5996b453da1dd02952213c530" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:2bbfded5996b453da1dd02952213c530" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=2bbfded5996b453da1dd02952213c530&amp;iid=db39d08f61c8426d82b079249b8a1850&amp;rsn=0&amp;recordid=db39d08f61c8426d82b079249b8a1850&amp;filingId=1f49aeab0cdb416f9cc1797b5be2d286&amp;role=Thumbnail&amp;reldt=2019-08-15T07:17:17&amp;media=Photo&amp;sz=12091&amp;dest=ak&amp;trF=XVY108&amp;ofn=Hong_Kong_Protests_22774.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/2bbfded5996b453da1dd02952213c530.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK7TrBgyUWdsQHUBMnUgZIRanKkMezcPuN8tVA0UOkIIG99yzAIzfFlKoVYycSkpuZzC1g5jwKIwJlJj96MwWAwOexb3p9fco79%2bd9sdYfR0m1FNvG3jQyzYhjPfRyO%2brpX9qqNAlOJBNI%2fAHzoijG" alternate-text="Benny Tai" height="85" width="125" coding="jpg" />
+                     <media-reference id="media-reference:2bbfded5996b453da1dd02952213c530" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=2bbfded5996b453da1dd02952213c530&amp;iid=db39d08f61c8426d82b079249b8a1850&amp;rsn=0&amp;recordid=db39d08f61c8426d82b079249b8a1850&amp;filingId=1f49aeab0cdb416f9cc1797b5be2d286&amp;role=Thumbnail&amp;reldt=2019-10-07T07:17:17&amp;media=Photo&amp;sz=12091&amp;dest=ak&amp;trF=XVY108&amp;ofn=Hong_Kong_Protests_22774.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/2bbfded5996b453da1dd02952213c530.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42430%2C42437&amp;authToken=eNotyzEOwjAMAMDPsKaK7TrBgyUWdsQHUBMnUgZIRanKkMezcPuN8tVA0UOkIIG99yzAIzfFlKoVYycSkpuZzC1g5jwKIwJlJj96MwWAwOexb3p9fco79%2bd9sdYfR0m1FNvG3jQyzYhjPfRyO%2brpX9qqNAlOJBNI%2fAHzoijG" alternate-text="Benny Tai" height="85" width="125" coding="jpg" />
                      <media-caption id="media-caption:db39d08f61c8426d82b079249b8a1850">
                         <p>Occupy Central leader Benny Tai, center, is accompanied by a supporter who raises an umbrella as he leaves High court in Hong Kong Thursday, Aug. 15, 2019. Tai, a top opposition leader imprisoned on public disorder charges was released on bail Thursday as Hong Kong's government attempts to quell a protest movement that has paralyzed parts of the territory, including its international airport, and led to hundreds of arrests. (AP Photo/Vincent Yu)</p>
                      </media-caption>
@@ -385,14 +385,14 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42437" Value="AP Top News - General - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328609" />
-         <apcm:FirstCreated>2019-08-15T14:48:03Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:48:03Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:8039863dc42e483fb54b7d7086a83729</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>7</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: Corrects that economic forecast was reduced to 0 to 1%, not to 0%. With AP Photos.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:47:29Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:47:29Z</apnm:PublishingReleaseDateTime>
          <apnm:LegacyNewsManagement>
             <apnm:LegacyType>ANPA1312+NAA89-3</apnm:LegacyType>
             <apnm:LegacyManagementType Value="Lead">
@@ -402,10 +402,10 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:61cea06d13dc4e27ae187e4275093746</id>
+      <id>urn:publicid:ap.org:61cea06d13dc4e27ae187e4275093748</id>
       <title>US--Earns-Walmart</title>
-      <updated>2019-08-15T14:47:03.092Z</updated>
-      <published>2019-08-15T14:46:49Z</published>
+      <updated>2019-10-07T14:47:03.092Z</updated>
+      <published>2019-10-07T14:46:49Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -415,7 +415,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T144649Z" />
+                  <date.issue norm="20191007T144649Z" />
                   <ed-msg info="Eds: New throughout to add more details. Recasts lead to focus on economy. With AP Photos." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -423,7 +423,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">Walmart delivers big in 2Q</hl1>
+                     <hl1 id="headline">CHARLIE Walmart delivers big in 2Q</hl1>
                      <hl2 id="originalHeadline">Walmart delivers big in 2Q</hl2>
                   </hedline>
                   <byline>
@@ -445,17 +445,17 @@
                      <media-metadata id="media-metadata-Format:001ea81be6764e4d9b69b8574d14546c" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:001ea81be6764e4d9b69b8574d14546c" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:001ea81be6764e4d9b69b8574d14546c" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:001ea81be6764e4d9b69b8574d14546c" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=001ea81be6764e4d9b69b8574d14546c&amp;iid=5f59dc8ce78d42649cb66dbb2c249faf&amp;rsn=0&amp;recordid=5f59dc8ce78d42649cb66dbb2c249faf&amp;filingId=17f641a4fb174db2b95639fba593d615&amp;role=Main&amp;reldt=2019-08-15T10:01:34&amp;media=Photo&amp;sz=3638973&amp;dest=ak&amp;trF=NYBZ484&amp;ofn=Earns_Walmart_02023.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/001ea81be6764e4d9b69b8574d14546c.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCay83HiwRILO%2bICqElcKQO0aqnKkMOz8PY39CvkE2DyxBQBwAPnUbsAoE4Zi1FKZIKGZrgQm5JjCg1DDFTH0psgIsU8jl1u749udXk9ptaX56llVm37OLqk6INzYz3lej%2fny7%2f0VbxlZz1b5PQDy7Ioew%3d%3d" height="3300" width="4950" coding="jpg" />
+                     <media-reference id="media-reference:001ea81be6764e4d9b69b8574d14546c" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=001ea81be6764e4d9b69b8574d14546c&amp;iid=5f59dc8ce78d42649cb66dbb2c249faf&amp;rsn=0&amp;recordid=5f59dc8ce78d42649cb66dbb2c249faf&amp;filingId=17f641a4fb174db2b95639fba593d615&amp;role=Main&amp;reldt=2019-10-07T10:01:34&amp;media=Photo&amp;sz=3638973&amp;dest=ak&amp;trF=NYBZ484&amp;ofn=Earns_Walmart_02023.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/001ea81be6764e4d9b69b8574d14546c.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCay83HiwRILO%2bICqElcKQO0aqnKkMOz8PY39CvkE2DyxBQBwAPnUbsAoE4Zi1FKZIKGZrgQm5JjCg1DDFTH0psgIsU8jl1u749udXk9ptaX56llVm37OLqk6INzYz3lej%2fny7%2f0VbxlZz1b5PQDy7Ioew%3d%3d" height="3300" width="4950" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:82375c6aa0e54dfbb65afc25fa60d8e7" name="OriginalFileName" value="Earns_Walmart_02023.jpg" />
                      <media-metadata id="media-metadata-Format:82375c6aa0e54dfbb65afc25fa60d8e7" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:82375c6aa0e54dfbb65afc25fa60d8e7" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:82375c6aa0e54dfbb65afc25fa60d8e7" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:82375c6aa0e54dfbb65afc25fa60d8e7" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=82375c6aa0e54dfbb65afc25fa60d8e7&amp;iid=5f59dc8ce78d42649cb66dbb2c249faf&amp;rsn=0&amp;recordid=5f59dc8ce78d42649cb66dbb2c249faf&amp;filingId=17f641a4fb174db2b95639fba593d615&amp;role=Preview&amp;reldt=2019-08-15T10:01:34&amp;media=Photo&amp;sz=76357&amp;dest=ak&amp;trF=NYBZ484&amp;ofn=Earns_Walmart_02023.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/82375c6aa0e54dfbb65afc25fa60d8e7.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNoty7EOwiAQANCfcaU5uN4BwyUu7sYfMBSOhEFpWps68PEuvv0N%2fQqjB%2buRIxMAIMQwcpPg0FPmZBIombnUxSxMydTsqCaGEtSP3opYa5nCOHa5vT%2b65f56pNL689SlqpZ9HE084ezcWE%2b53s96%2bZe2Ck7RTRgnG%2f0PGqMpYg%3d%3d" height="341" width="512" coding="jpg" />
+                     <media-reference id="media-reference:82375c6aa0e54dfbb65afc25fa60d8e7" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=82375c6aa0e54dfbb65afc25fa60d8e7&amp;iid=5f59dc8ce78d42649cb66dbb2c249faf&amp;rsn=0&amp;recordid=5f59dc8ce78d42649cb66dbb2c249faf&amp;filingId=17f641a4fb174db2b95639fba593d615&amp;role=Preview&amp;reldt=2019-10-07T10:01:34&amp;media=Photo&amp;sz=76357&amp;dest=ak&amp;trF=NYBZ484&amp;ofn=Earns_Walmart_02023.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/82375c6aa0e54dfbb65afc25fa60d8e7.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNoty7EOwiAQANCfcaU5uN4BwyUu7sYfMBSOhEFpWps68PEuvv0N%2fQqjB%2buRIxMAIMQwcpPg0FPmZBIombnUxSxMydTsqCaGEtSP3opYa5nCOHa5vT%2b65f56pNL689SlqpZ9HE084ezcWE%2b53s96%2bZe2Ck7RTRgnG%2f0PGqMpYg%3d%3d" height="341" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:09e1ff260cd049a782fd6dbb6a46b2fa" name="OriginalFileName" value="Earns_Walmart_02023.jpg" />
                      <media-metadata id="media-metadata-Format:09e1ff260cd049a782fd6dbb6a46b2fa" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:09e1ff260cd049a782fd6dbb6a46b2fa" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:09e1ff260cd049a782fd6dbb6a46b2fa" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:09e1ff260cd049a782fd6dbb6a46b2fa" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=09e1ff260cd049a782fd6dbb6a46b2fa&amp;iid=5f59dc8ce78d42649cb66dbb2c249faf&amp;rsn=0&amp;recordid=5f59dc8ce78d42649cb66dbb2c249faf&amp;filingId=17f641a4fb174db2b95639fba593d615&amp;role=Thumbnail&amp;reldt=2019-08-15T10:01:34&amp;media=Photo&amp;sz=20879&amp;dest=ak&amp;trF=NYBZ484&amp;ofn=Earns_Walmart_02023.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/09e1ff260cd049a782fd6dbb6a46b2fa.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EKG38AUk9jYGy9g%2bCYUymbXDRYc3sbXv1W%2fjMaD8gYJHQAYoLByZ6CqWtMoIBcQlqIXQbcisKSE0WLSLa7RCyul0IV1Hnx7f%2bqex%2bsRSx%2fPWVOrtRzr7OydsVqvbfL1PtvlX%2frGRpKWhqQi%2fwMYgSle" height="83" width="125" coding="jpg" />
+                     <media-reference id="media-reference:09e1ff260cd049a782fd6dbb6a46b2fa" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=09e1ff260cd049a782fd6dbb6a46b2fa&amp;iid=5f59dc8ce78d42649cb66dbb2c249faf&amp;rsn=0&amp;recordid=5f59dc8ce78d42649cb66dbb2c249faf&amp;filingId=17f641a4fb174db2b95639fba593d615&amp;role=Thumbnail&amp;reldt=2019-10-07T10:01:34&amp;media=Photo&amp;sz=20879&amp;dest=ak&amp;trF=NYBZ484&amp;ofn=Earns_Walmart_02023.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/09e1ff260cd049a782fd6dbb6a46b2fa.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EKG38AUk9jYGy9g%2bCYUymbXDRYc3sbXv1W%2fjMaD8gYJHQAYoLByZ6CqWtMoIBcQlqIXQbcisKSE0WLSLa7RCyul0IV1Hnx7f%2bqex%2bsRSx%2fPWVOrtRzr7OydsVqvbfL1PtvlX%2frGRpKWhqQi%2fwMYgSle" height="83" width="125" coding="jpg" />
                      <media-caption id="media-caption:5f59dc8ce78d42649cb66dbb2c249faf">
                         <p>FILE - In this April 24, 2019, file photo a Walmart associate works at a Walmart Neighborhood Market in Levittown, N.Y. Walmart Inc. reports financial results Thursday, Aug. 15. (AP Photo/Mark Lennihan, File)</p>
                      </media-caption>
@@ -470,17 +470,17 @@
                      <media-metadata id="media-metadata-Format:dca6a824c170479f8ffbb30a25a5e01a" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:dca6a824c170479f8ffbb30a25a5e01a" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:dca6a824c170479f8ffbb30a25a5e01a" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:dca6a824c170479f8ffbb30a25a5e01a" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=dca6a824c170479f8ffbb30a25a5e01a&amp;iid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;rsn=0&amp;recordid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;filingId=e38b4d889ee64589ba1dd2e0a36efa7c&amp;role=Main&amp;reldt=2019-08-15T10:01:34&amp;media=Photo&amp;sz=5947777&amp;dest=ak&amp;trF=NYBZ483&amp;ofn=Earns_Walmart_07080.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/dca6a824c170479f8ffbb30a25a5e01a.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsKAjEQANDL2CbMZPItBmzsxQtIvpBCs%2by6xCKHt%2fH1b9UvW3KAjmywBgAIgl%2b5c8nRRq%2b0yOhAaBea8K0lkQiiMtFUwLhGL4yI1vh1Hnx7f%2bqex%2bsRSx%2fPWVOrtRzr7OwMaaXWNvl6n%2b3yL31jkkFJChKD%2bwEKCSkj" height="2338" width="3507" coding="jpg" />
+                     <media-reference id="media-reference:dca6a824c170479f8ffbb30a25a5e01a" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=dca6a824c170479f8ffbb30a25a5e01a&amp;iid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;rsn=0&amp;recordid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;filingId=e38b4d889ee64589ba1dd2e0a36efa7c&amp;role=Main&amp;reldt=2019-10-07T10:01:34&amp;media=Photo&amp;sz=5947777&amp;dest=ak&amp;trF=NYBZ483&amp;ofn=Earns_Walmart_07080.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/dca6a824c170479f8ffbb30a25a5e01a.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsKAjEQANDL2CbMZPItBmzsxQtIvpBCs%2by6xCKHt%2fH1b9UvW3KAjmywBgAIgl%2b5c8nRRq%2b0yOhAaBea8K0lkQiiMtFUwLhGL4yI1vh1Hnx7f%2bqex%2bsRSx%2fPWVOrtRzr7OwMaaXWNvl6n%2b3yL31jkkFJChKD%2bwEKCSkj" height="2338" width="3507" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:0121f212e279418f95f5dbecf2359362" name="OriginalFileName" value="Earns_Walmart_07080.jpg" />
                      <media-metadata id="media-metadata-Format:0121f212e279418f95f5dbecf2359362" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:0121f212e279418f95f5dbecf2359362" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:0121f212e279418f95f5dbecf2359362" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:0121f212e279418f95f5dbecf2359362" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=0121f212e279418f95f5dbecf2359362&amp;iid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;rsn=0&amp;recordid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;filingId=e38b4d889ee64589ba1dd2e0a36efa7c&amp;role=Preview&amp;reldt=2019-08-15T10:01:34&amp;media=Photo&amp;sz=61201&amp;dest=ak&amp;trF=NYBZ483&amp;ofn=Earns_Walmart_07080.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/0121f212e279418f95f5dbecf2359362.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCaK7ebjwRILO%2bICiCaOlAFSUaow5PAsvP1N%2fUqg6CBS4OCdc%2bQ4zdzEAUJFQKMY2SyQqmFfvSmr5orkmQLO3ooAQPBpHrtcXh995%2f68PUrr96FrVS37PJpETwvi3Iacr6Oe%2fqVtQpbRElvg%2bAOwxihF" height="341" width="512" coding="jpg" />
+                     <media-reference id="media-reference:0121f212e279418f95f5dbecf2359362" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=0121f212e279418f95f5dbecf2359362&amp;iid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;rsn=0&amp;recordid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;filingId=e38b4d889ee64589ba1dd2e0a36efa7c&amp;role=Preview&amp;reldt=2019-10-07T10:01:34&amp;media=Photo&amp;sz=61201&amp;dest=ak&amp;trF=NYBZ483&amp;ofn=Earns_Walmart_07080.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/0121f212e279418f95f5dbecf2359362.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCaK7ebjwRILO%2bICiCaOlAFSUaow5PAsvP1N%2fUqg6CBS4OCdc%2bQ4zdzEAUJFQKMY2SyQqmFfvSmr5orkmQLO3ooAQPBpHrtcXh995%2f68PUrr96FrVS37PJpETwvi3Iacr6Oe%2fqVtQpbRElvg%2bAOwxihF" height="341" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:71ce452c48ca45668ef750e00b13bee3" name="OriginalFileName" value="Earns_Walmart_07080.jpg" />
                      <media-metadata id="media-metadata-Format:71ce452c48ca45668ef750e00b13bee3" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:71ce452c48ca45668ef750e00b13bee3" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:71ce452c48ca45668ef750e00b13bee3" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:71ce452c48ca45668ef750e00b13bee3" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=71ce452c48ca45668ef750e00b13bee3&amp;iid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;rsn=0&amp;recordid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;filingId=e38b4d889ee64589ba1dd2e0a36efa7c&amp;role=Thumbnail&amp;reldt=2019-08-15T10:01:34&amp;media=Photo&amp;sz=18341&amp;dest=ak&amp;trF=NYBZ483&amp;ofn=Earns_Walmart_07080.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/71ce452c48ca45668ef750e00b13bee3.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotzDsOAiEQANDL2EJmGL7FJDb2xguYBYaEQtm4btaCw2vhAd6b8mFPATCQT94BAEGKs3QOWMQ6U5SNZVHWea%2bitKAcCEBGyiI0R6%2bMiN7FuW98eb7lVcbjttQ%2b7ofkJlK3uf8yR9aYuR58vh7t9Cd9ZdLJaEoaU%2fgC5coozQ%3d%3d" height="83" width="125" coding="jpg" />
+                     <media-reference id="media-reference:71ce452c48ca45668ef750e00b13bee3" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=71ce452c48ca45668ef750e00b13bee3&amp;iid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;rsn=0&amp;recordid=e226233d10d34cfeb4aa38ea6f8ffeda&amp;filingId=e38b4d889ee64589ba1dd2e0a36efa7c&amp;role=Thumbnail&amp;reldt=2019-10-07T10:01:34&amp;media=Photo&amp;sz=18341&amp;dest=ak&amp;trF=NYBZ483&amp;ofn=Earns_Walmart_07080.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/71ce452c48ca45668ef750e00b13bee3.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotzDsOAiEQANDL2EJmGL7FJDb2xguYBYaEQtm4btaCw2vhAd6b8mFPATCQT94BAEGKs3QOWMQ6U5SNZVHWea%2bitKAcCEBGyiI0R6%2bMiN7FuW98eb7lVcbjttQ%2b7ofkJlK3uf8yR9aYuR58vh7t9Cd9ZdLJaEoaU%2fgC5coozQ%3d%3d" height="83" width="125" coding="jpg" />
                      <media-caption id="media-caption:e226233d10d34cfeb4aa38ea6f8ffeda">
                         <p>FILE - This June 25, 2019, file photo shows the entrance to a Walmart in Pittsburgh. Walmart Inc. reports financial results Thursday, Aug. 15. (AP Photo/Gene J. Puskar, File)</p>
                      </media-caption>
@@ -590,14 +590,14 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328541" />
-         <apcm:FirstCreated>2019-08-15T14:46:49Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:46:49Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:c9cdfab97e84bcca8737b473065c2bc6</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>3</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: New throughout to add more details. Recasts lead to focus on economy. With AP Photos.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:46:41Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:46:41Z</apnm:PublishingReleaseDateTime>
          <apnm:LegacyNewsManagement>
             <apnm:LegacyType>ANPA1312+NAA89-3</apnm:LegacyType>
             <apnm:LegacyManagementType Value="Lead">
@@ -607,10 +607,10 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:80fbb2bba0004290a8757b8e3a0df3df</id>
+      <id>urn:publicid:ap.org:80fbb2bba0004290a8757b8e3a0df3d8</id>
       <title>Persian Gulf-Tensions-The Latest</title>
-      <updated>2019-08-15T14:42:06.175Z</updated>
-      <published>2019-08-15T14:41:55Z</published>
+      <updated>2019-10-07T14:42:06.175Z</updated>
+      <published>2019-10-07T14:41:55Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -620,14 +620,14 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T144155Z" />
+                  <date.issue norm="20191007T144155Z" />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
             </head>
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">The Latest: Gibraltar paper reports Iranian tanker released</hl1>
+                     <hl1 id="headline">CHARLIE The Latest: Gibraltar paper reports Iranian tanker released</hl1>
                      <hl2 id="originalHeadline">The Latest: Gibraltar paper reports Iranian tanker released</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -744,7 +744,7 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42437" Value="AP Top News - General - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328264" />
-         <apcm:FirstCreated>2019-08-15T14:41:55Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:41:55Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:Signal>Derived</apnm:Signal>
@@ -752,14 +752,14 @@
          <apnm:ManagementId>urn:publicid:ap.org:690963e65188476e88a2c77e26bd3daa</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>0</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:41:44Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:41:44Z</apnm:PublishingReleaseDateTime>
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:d99d06550b9e449786d99176f413c38e</id>
+      <id>urn:publicid:ap.org:d99d06550b9e449786d99176f413c388</id>
       <title>US--Retail Sales</title>
-      <updated>2019-08-15T14:41:32.777Z</updated>
-      <published>2019-08-15T14:41:22Z</published>
+      <updated>2019-10-07T14:41:32.777Z</updated>
+      <published>2019-10-07T14:41:22Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -769,7 +769,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T144122Z" />
+                  <date.issue norm="20191007T144122Z" />
                   <ed-msg info="Eds: Adds details, analyst comments. With AP Photos." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -777,7 +777,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">US retail sales rise strongly in sign of consumer optimism</hl1>
+                     <hl1 id="headline">CHARLIE US retail sales rise strongly in sign of consumer optimism</hl1>
                      <hl2 id="originalHeadline">US retail sales rise strongly in sign of consumer optimism</hl2>
                   </hedline>
                   <byline>
@@ -799,17 +799,17 @@
                      <media-metadata id="media-metadata-Format:df225f74c7db4c9b9fafd4972b8799ee" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:df225f74c7db4c9b9fafd4972b8799ee" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:df225f74c7db4c9b9fafd4972b8799ee" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:df225f74c7db4c9b9fafd4972b8799ee" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=df225f74c7db4c9b9fafd4972b8799ee&amp;iid=5a65db4e62764056995d37c52a4e49df&amp;rsn=0&amp;recordid=5a65db4e62764056995d37c52a4e49df&amp;filingId=c197427b4505438ca9588f97e706e0cf&amp;role=Main&amp;reldt=2019-08-15T11:30:39&amp;media=Photo&amp;sz=3511624&amp;dest=ak&amp;trF=NYBZ479&amp;ofn=Retail_Sales_95924.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/df225f74c7db4c9b9fafd4972b8799ee.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EJg%2bMxOMYmNvfECZoEhoVA2rhssOLwWlq94Uz4cHRqLLlIMxhj6aebGpQKEil5lLEn5TElRXasqnhDSgkQis7fC1toYlnnsfHm%2b5ZX747aW1u9DUhUp%2bzwaY3AeYG6Dz9dRT%2f%2fSNnaaQDvSlvALLU0pgw%3d%3d" alternate-text="2019 Lincoln Navigators, r m" height="3648" width="5472" coding="jpg" />
+                     <media-reference id="media-reference:df225f74c7db4c9b9fafd4972b8799ee" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=df225f74c7db4c9b9fafd4972b8799ee&amp;iid=5a65db4e62764056995d37c52a4e49df&amp;rsn=0&amp;recordid=5a65db4e62764056995d37c52a4e49df&amp;filingId=c197427b4505438ca9588f97e706e0cf&amp;role=Main&amp;reldt=2019-10-07T11:30:39&amp;media=Photo&amp;sz=3511624&amp;dest=ak&amp;trF=NYBZ479&amp;ofn=Retail_Sales_95924.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/df225f74c7db4c9b9fafd4972b8799ee.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EJg%2bMxOMYmNvfECZoEhoVA2rhssOLwWlq94Uz4cHRqLLlIMxhj6aebGpQKEil5lLEn5TElRXasqnhDSgkQis7fC1toYlnnsfHm%2b5ZX747aW1u9DUhUp%2bzwaY3AeYG6Dz9dRT%2f%2fSNnaaQDvSlvALLU0pgw%3d%3d" alternate-text="2019 Lincoln Navigators, r m" height="3648" width="5472" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:9afdafcf0b874132878798ce09d7e656" name="OriginalFileName" value="Retail_Sales_95924.jpg" />
                      <media-metadata id="media-metadata-Format:9afdafcf0b874132878798ce09d7e656" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:9afdafcf0b874132878798ce09d7e656" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:9afdafcf0b874132878798ce09d7e656" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:9afdafcf0b874132878798ce09d7e656" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=9afdafcf0b874132878798ce09d7e656&amp;iid=5a65db4e62764056995d37c52a4e49df&amp;rsn=0&amp;recordid=5a65db4e62764056995d37c52a4e49df&amp;filingId=c197427b4505438ca9588f97e706e0cf&amp;role=Preview&amp;reldt=2019-08-15T11:30:39&amp;media=Photo&amp;sz=58043&amp;dest=ak&amp;trF=NYBZ479&amp;ofn=Retail_Sales_95924.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/9afdafcf0b874132878798ce09d7e656.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNoty7EOwiAQgOGXcS3hoHDccImLu%2fEFDIUjYVCa1gYHHt4Obv8%2ffEO%2b7C1qQOvJO601nTdSZYolx5LKpJeA0wzWTAHPopBEU0bxzo9WMwOAd2EcO9%2feH9lSez1iru3ZZSkieR9HZXR2Nmasna%2f3Xi5%2fUle2ioyypIDwB%2f%2fgKPA%3d" alternate-text="2019 Lincoln Navigators, r m" height="341" width="512" coding="jpg" />
+                     <media-reference id="media-reference:9afdafcf0b874132878798ce09d7e656" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=9afdafcf0b874132878798ce09d7e656&amp;iid=5a65db4e62764056995d37c52a4e49df&amp;rsn=0&amp;recordid=5a65db4e62764056995d37c52a4e49df&amp;filingId=c197427b4505438ca9588f97e706e0cf&amp;role=Preview&amp;reldt=2019-10-07T11:30:39&amp;media=Photo&amp;sz=58043&amp;dest=ak&amp;trF=NYBZ479&amp;ofn=Retail_Sales_95924.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/9afdafcf0b874132878798ce09d7e656.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNoty7EOwiAQgOGXcS3hoHDccImLu%2fEFDIUjYVCa1gYHHt4Obv8%2ffEO%2b7C1qQOvJO601nTdSZYolx5LKpJeA0wzWTAHPopBEU0bxzo9WMwOAd2EcO9%2feH9lSez1iru3ZZSkieR9HZXR2Nmasna%2f3Xi5%2fUle2ioyypIDwB%2f%2fgKPA%3d" alternate-text="2019 Lincoln Navigators, r m" height="341" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:c487c22f146e4c3d91c2b930e5218079" name="OriginalFileName" value="Retail_Sales_95924.jpg" />
                      <media-metadata id="media-metadata-Format:c487c22f146e4c3d91c2b930e5218079" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:c487c22f146e4c3d91c2b930e5218079" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:c487c22f146e4c3d91c2b930e5218079" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:c487c22f146e4c3d91c2b930e5218079" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=c487c22f146e4c3d91c2b930e5218079&amp;iid=5a65db4e62764056995d37c52a4e49df&amp;rsn=0&amp;recordid=5a65db4e62764056995d37c52a4e49df&amp;filingId=c197427b4505438ca9588f97e706e0cf&amp;role=Thumbnail&amp;reldt=2019-08-15T11:30:39&amp;media=Photo&amp;sz=11917&amp;dest=ak&amp;trF=NYBZ479&amp;ofn=Retail_Sales_95924.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/c487c22f146e4c3d91c2b930e5218079.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCaK7fw8WGJhR1wA0cSRMkCrlqoMOTwMjG94Qz8SKTlIFDkG5xz%2fNEqX4nMqiM2Aj2p8oWoYCpqJyWlAyC7xmHsVAIghj32Ty%2buta5mft0ft8%2f3QqanWbexdUiCPOJZDztejnf6lL0KW0RJb4PQFuu8oQw%3d%3d" alternate-text="2019 Lincoln Navigators, r m" height="83" width="125" coding="jpg" />
+                     <media-reference id="media-reference:c487c22f146e4c3d91c2b930e5218079" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=c487c22f146e4c3d91c2b930e5218079&amp;iid=5a65db4e62764056995d37c52a4e49df&amp;rsn=0&amp;recordid=5a65db4e62764056995d37c52a4e49df&amp;filingId=c197427b4505438ca9588f97e706e0cf&amp;role=Thumbnail&amp;reldt=2019-10-07T11:30:39&amp;media=Photo&amp;sz=11917&amp;dest=ak&amp;trF=NYBZ479&amp;ofn=Retail_Sales_95924.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/c487c22f146e4c3d91c2b930e5218079.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCaK7fw8WGJhR1wA0cSRMkCrlqoMOTwMjG94Qz8SKTlIFDkG5xz%2fNEqX4nMqiM2Aj2p8oWoYCpqJyWlAyC7xmHsVAIghj32Ty%2buta5mft0ft8%2f3QqanWbexdUiCPOJZDztejnf6lL0KW0RJb4PQFuu8oQw%3d%3d" alternate-text="2019 Lincoln Navigators, r m" height="83" width="125" coding="jpg" />
                      <media-caption id="media-caption:5a65db4e62764056995d37c52a4e49df">
                         <p>FILE - In this July 28, 2019, file photo unsold 2019 Lincoln Navigators sit at a dealership in Englewood, Colo. On Thursday, Aug. 15, the Commerce Department releases U.S. retail sales data for July. (AP Photo/David Zalubowski, File)</p>
                      </media-caption>
@@ -824,17 +824,17 @@
                      <media-metadata id="media-metadata-Format:3516125231804c8e89be6470336099d3" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:3516125231804c8e89be6470336099d3" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:3516125231804c8e89be6470336099d3" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:3516125231804c8e89be6470336099d3" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=3516125231804c8e89be6470336099d3&amp;iid=c2ebb96b7c2c4409ba88d80a58730e37&amp;rsn=0&amp;recordid=c2ebb96b7c2c4409ba88d80a58730e37&amp;filingId=b67dda877f0d46d58e6a8931a373a792&amp;role=Main&amp;reldt=2019-08-15T11:30:38&amp;media=Photo&amp;sz=3457389&amp;dest=ak&amp;trF=NYBZ478&amp;ofn=Retail_Sales_94428.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/3516125231804c8e89be6470336099d3.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOwjAMAMDPsKay48aJB0ss7IgPIJq4UgZo1VKFIY%2bHgfGG6%2fZRpggYiYUDAMhPPVelgIw%2beEeYwI05mUsymeMxAhGDSKG%2b1KKIyCH1Y9fL621bXp63R6nLvdk0m5W9H1VjoNH7vjY9X9t8%2bpe6Kg3iB5IBJX4Banknhw%3d%3d" height="2934" width="4586" coding="jpg" />
+                     <media-reference id="media-reference:3516125231804c8e89be6470336099d3" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=3516125231804c8e89be6470336099d3&amp;iid=c2ebb96b7c2c4409ba88d80a58730e37&amp;rsn=0&amp;recordid=c2ebb96b7c2c4409ba88d80a58730e37&amp;filingId=b67dda877f0d46d58e6a8931a373a792&amp;role=Main&amp;reldt=2019-10-07T11:30:38&amp;media=Photo&amp;sz=3457389&amp;dest=ak&amp;trF=NYBZ478&amp;ofn=Retail_Sales_94428.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/3516125231804c8e89be6470336099d3.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOwjAMAMDPsKay48aJB0ss7IgPIJq4UgZo1VKFIY%2bHgfGG6%2fZRpggYiYUDAMhPPVelgIw%2beEeYwI05mUsymeMxAhGDSKG%2b1KKIyCH1Y9fL621bXp63R6nLvdk0m5W9H1VjoNH7vjY9X9t8%2bpe6Kg3iB5IBJX4Banknhw%3d%3d" height="2934" width="4586" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:9d9b658ea5164a4fba010ac4fc93d35e" name="OriginalFileName" value="Retail_Sales_94428.jpg" />
                      <media-metadata id="media-metadata-Format:9d9b658ea5164a4fba010ac4fc93d35e" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:9d9b658ea5164a4fba010ac4fc93d35e" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:9d9b658ea5164a4fba010ac4fc93d35e" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:9d9b658ea5164a4fba010ac4fc93d35e" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=9d9b658ea5164a4fba010ac4fc93d35e&amp;iid=c2ebb96b7c2c4409ba88d80a58730e37&amp;rsn=0&amp;recordid=c2ebb96b7c2c4409ba88d80a58730e37&amp;filingId=b67dda877f0d46d58e6a8931a373a792&amp;role=Preview&amp;reldt=2019-08-15T11:30:38&amp;media=Photo&amp;sz=53190&amp;dest=ak&amp;trF=NYBZ478&amp;ofn=Retail_Sales_94428.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/9d9b658ea5164a4fba010ac4fc93d35e.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyz0OAiEQQOHL2EIYhh%2bnmMTG3ngBw8KQUCgb1w0WHN4tLF%2fyvilfDhgNRAwUvDGGjpq5MRVagj%2bLSh6CcslVtSQDyqTsaiYs6GX2VhgAjm%2fuG19fH3nn%2fryn0vpjyFJFyjb3xtGjs3augy%2b3UU9%2f0lZGTVYjaaD4AwocKS4%3d" height="328" width="512" coding="jpg" />
+                     <media-reference id="media-reference:9d9b658ea5164a4fba010ac4fc93d35e" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=9d9b658ea5164a4fba010ac4fc93d35e&amp;iid=c2ebb96b7c2c4409ba88d80a58730e37&amp;rsn=0&amp;recordid=c2ebb96b7c2c4409ba88d80a58730e37&amp;filingId=b67dda877f0d46d58e6a8931a373a792&amp;role=Preview&amp;reldt=2019-10-07T11:30:38&amp;media=Photo&amp;sz=53190&amp;dest=ak&amp;trF=NYBZ478&amp;ofn=Retail_Sales_94428.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/9d9b658ea5164a4fba010ac4fc93d35e.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyz0OAiEQQOHL2EIYhh%2bnmMTG3ngBw8KQUCgb1w0WHN4tLF%2fyvilfDhgNRAwUvDGGjpq5MRVagj%2bLSh6CcslVtSQDyqTsaiYs6GX2VhgAjm%2fuG19fH3nn%2fryn0vpjyFJFyjb3xtGjs3augy%2b3UU9%2f0lZGTVYjaaD4AwocKS4%3d" height="328" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:ed93f1cb87e4488ea5c5907fe3f84e1a" name="OriginalFileName" value="Retail_Sales_94428.jpg" />
                      <media-metadata id="media-metadata-Format:ed93f1cb87e4488ea5c5907fe3f84e1a" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:ed93f1cb87e4488ea5c5907fe3f84e1a" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:ed93f1cb87e4488ea5c5907fe3f84e1a" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:ed93f1cb87e4488ea5c5907fe3f84e1a" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=ed93f1cb87e4488ea5c5907fe3f84e1a&amp;iid=c2ebb96b7c2c4409ba88d80a58730e37&amp;rsn=0&amp;recordid=c2ebb96b7c2c4409ba88d80a58730e37&amp;filingId=b67dda877f0d46d58e6a8931a373a792&amp;role=Thumbnail&amp;reldt=2019-08-15T11:30:38&amp;media=Photo&amp;sz=10342&amp;dest=ak&amp;trF=NYBZ478&amp;ofn=Retail_Sales_94428.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/ed93f1cb87e4488ea5c5907fe3f84e1a.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EIYht8Uk9jYGy9gWBgSCmXjulkLDq%2bF5SvelA8HjAYiBgreGEM%2fzdJZKmGDsqgUxSmXkqjsi1dkYhNsyQnkOXplAAg%2bzX3jy%2fMtrzIet1z7uB%2byNJG6zb1z9OisnevB5%2bvRTv%2fSV0ZNViNpoPgFF%2fYpRw%3d%3d" height="80" width="125" coding="jpg" />
+                     <media-reference id="media-reference:ed93f1cb87e4488ea5c5907fe3f84e1a" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=ed93f1cb87e4488ea5c5907fe3f84e1a&amp;iid=c2ebb96b7c2c4409ba88d80a58730e37&amp;rsn=0&amp;recordid=c2ebb96b7c2c4409ba88d80a58730e37&amp;filingId=b67dda877f0d46d58e6a8931a373a792&amp;role=Thumbnail&amp;reldt=2019-10-07T11:30:38&amp;media=Photo&amp;sz=10342&amp;dest=ak&amp;trF=NYBZ478&amp;ofn=Retail_Sales_94428.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/ed93f1cb87e4488ea5c5907fe3f84e1a.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EIYht8Uk9jYGy9gWBgSCmXjulkLDq%2bF5SvelA8HjAYiBgreGEM%2fzdJZKmGDsqgUxSmXkqjsi1dkYhNsyQnkOXplAAg%2bzX3jy%2fMtrzIet1z7uB%2byNJG6zb1z9OisnevB5%2bvRTv%2fSV0ZNViNpoPgFF%2fYpRw%3d%3d" height="80" width="125" coding="jpg" />
                      <media-caption id="media-caption:c2ebb96b7c2c4409ba88d80a58730e37">
                         <p>FILE - In this July 11, 2019, file photo lumber is stacked at the Home Depot store in Londonderry, N.H. On Thursday, Aug. 15, the Commerce Department releases U.S. retail sales data for July. (AP Photo/Charles Krupa, File)</p>
                      </media-caption>
@@ -849,17 +849,17 @@
                      <media-metadata id="media-metadata-Format:df67c281793c4ec48aa065df8d5e10a7" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:df67c281793c4ec48aa065df8d5e10a7" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:df67c281793c4ec48aa065df8d5e10a7" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:df67c281793c4ec48aa065df8d5e10a7" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=df67c281793c4ec48aa065df8d5e10a7&amp;iid=c55d8dc96cf847bfb9e4843c897b6b36&amp;rsn=0&amp;recordid=c55d8dc96cf847bfb9e4843c897b6b36&amp;filingId=d9d01c12506a44f2833a9fcb834bdd20&amp;role=Main&amp;reldt=2019-08-15T11:30:34&amp;media=Photo&amp;sz=1897692&amp;dest=ak&amp;trF=NYBZ477&amp;ofn=Retail_Sales_01867.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/df67c281793c4ec48aa065df8d5e10a7.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOAiEQAMDP2EJYOHah2MTG3vgBg7AkFMrlzgsWPF4LyylmyofRkQFyGNEbY%2bJPMzcuFSnbAIqiy2qRvKiQklHoSw3FC5hEs7fCAIA%2bzGPny%2bstW%2b7PWyqt34c8qkjZ59GYvFusnevg83XU07%2b0lZ2OVruoIdIX%2fl8pCQ%3d%3d" height="1100" width="1552" coding="jpg" />
+                     <media-reference id="media-reference:df67c281793c4ec48aa065df8d5e10a7" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=df67c281793c4ec48aa065df8d5e10a7&amp;iid=c55d8dc96cf847bfb9e4843c897b6b36&amp;rsn=0&amp;recordid=c55d8dc96cf847bfb9e4843c897b6b36&amp;filingId=d9d01c12506a44f2833a9fcb834bdd20&amp;role=Main&amp;reldt=2019-10-07T11:30:34&amp;media=Photo&amp;sz=1897692&amp;dest=ak&amp;trF=NYBZ477&amp;ofn=Retail_Sales_01867.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/df67c281793c4ec48aa065df8d5e10a7.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOAiEQAMDP2EJYOHah2MTG3vgBg7AkFMrlzgsWPF4LyylmyofRkQFyGNEbY%2bJPMzcuFSnbAIqiy2qRvKiQklHoSw3FC5hEs7fCAIA%2bzGPny%2bstW%2b7PWyqt34c8qkjZ59GYvFusnevg83XU07%2b0lZ2OVruoIdIX%2fl8pCQ%3d%3d" height="1100" width="1552" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:3fda588786cd4ecfb6734a5f9ab9c9ab" name="OriginalFileName" value="Retail_Sales_01867.jpg" />
                      <media-metadata id="media-metadata-Format:3fda588786cd4ecfb6734a5f9ab9c9ab" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:3fda588786cd4ecfb6734a5f9ab9c9ab" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:3fda588786cd4ecfb6734a5f9ab9c9ab" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:3fda588786cd4ecfb6734a5f9ab9c9ab" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=3fda588786cd4ecfb6734a5f9ab9c9ab&amp;iid=c55d8dc96cf847bfb9e4843c897b6b36&amp;rsn=0&amp;recordid=c55d8dc96cf847bfb9e4843c897b6b36&amp;filingId=d9d01c12506a44f2833a9fcb834bdd20&amp;role=Preview&amp;reldt=2019-08-15T11:30:34&amp;media=Photo&amp;sz=86583&amp;dest=ak&amp;trF=NYBZ477&amp;ofn=Retail_Sales_01867.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/3fda588786cd4ecfb6734a5f9ab9c9ab.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyz0OAiEQQOHL2EKAWRimmMTG3ngBw29CoWx23WDB4d3C5iWv%2bGb5sgNUGsGRs0opOm%2bmxlBzsN6j8C5lsZRURXQIYgm2UoiUzszeMmutnfXz2Pn2%2fpQt9dcj5Nafo8RaSt7n0RgtLMbMdfD1PurlT9rKIMlIIKkJfzWAKac%3d" height="363" width="512" coding="jpg" />
+                     <media-reference id="media-reference:3fda588786cd4ecfb6734a5f9ab9c9ab" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=3fda588786cd4ecfb6734a5f9ab9c9ab&amp;iid=c55d8dc96cf847bfb9e4843c897b6b36&amp;rsn=0&amp;recordid=c55d8dc96cf847bfb9e4843c897b6b36&amp;filingId=d9d01c12506a44f2833a9fcb834bdd20&amp;role=Preview&amp;reldt=2019-10-07T11:30:34&amp;media=Photo&amp;sz=86583&amp;dest=ak&amp;trF=NYBZ477&amp;ofn=Retail_Sales_01867.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/3fda588786cd4ecfb6734a5f9ab9c9ab.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyz0OAiEQQOHL2EKAWRimmMTG3ngBw29CoWx23WDB4d3C5iWv%2bGb5sgNUGsGRs0opOm%2bmxlBzsN6j8C5lsZRURXQIYgm2UoiUzszeMmutnfXz2Pn2%2fpQt9dcj5Nafo8RaSt7n0RgtLMbMdfD1PurlT9rKIMlIIKkJfzWAKac%3d" height="363" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:f65c0e8c31c04abbada3e6bdb78ff462" name="OriginalFileName" value="Retail_Sales_01867.jpg" />
                      <media-metadata id="media-metadata-Format:f65c0e8c31c04abbada3e6bdb78ff462" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:f65c0e8c31c04abbada3e6bdb78ff462" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:f65c0e8c31c04abbada3e6bdb78ff462" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:f65c0e8c31c04abbada3e6bdb78ff462" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=f65c0e8c31c04abbada3e6bdb78ff462&amp;iid=c55d8dc96cf847bfb9e4843c897b6b36&amp;rsn=0&amp;recordid=c55d8dc96cf847bfb9e4843c897b6b36&amp;filingId=d9d01c12506a44f2833a9fcb834bdd20&amp;role=Thumbnail&amp;reldt=2019-08-15T11:30:34&amp;media=Photo&amp;sz=12241&amp;dest=ak&amp;trF=NYBZ477&amp;ofn=Retail_Sales_01867.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/f65c0e8c31c04abbada3e6bdb78ff462.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EKAgQGKSWzsjRcwfIaEQtm4brDg8FpYvuIt%2fhCCV9oDRnRKqfjTKp0auqI4FAG6KGFTziLVBIIx1%2bxDaxbNGr2S1hpdWMdOl%2bebX2U8bqn2cZ%2bcG3Pd19HJO7DGrG3S%2bTrb6V%2f6RiCjkRCljv4LPwgptw%3d%3d" height="89" width="125" coding="jpg" />
+                     <media-reference id="media-reference:f65c0e8c31c04abbada3e6bdb78ff462" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=f65c0e8c31c04abbada3e6bdb78ff462&amp;iid=c55d8dc96cf847bfb9e4843c897b6b36&amp;rsn=0&amp;recordid=c55d8dc96cf847bfb9e4843c897b6b36&amp;filingId=d9d01c12506a44f2833a9fcb834bdd20&amp;role=Thumbnail&amp;reldt=2019-10-07T11:30:34&amp;media=Photo&amp;sz=12241&amp;dest=ak&amp;trF=NYBZ477&amp;ofn=Retail_Sales_01867.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/f65c0e8c31c04abbada3e6bdb78ff462.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EKAgQGKSWzsjRcwfIaEQtm4brDg8FpYvuIt%2fhCCV9oDRnRKqfjTKp0auqI4FAG6KGFTziLVBIIx1%2bxDaxbNGr2S1hpdWMdOl%2bebX2U8bqn2cZ%2bcG3Pd19HJO7DGrG3S%2bTrb6V%2f6RiCjkRCljv4LPwgptw%3d%3d" height="89" width="125" coding="jpg" />
                      <media-caption id="media-caption:c55d8dc96cf847bfb9e4843c897b6b36">
                         <p>FILE - In this Aug. 8, 2019, file photo customers are seen through the window of a Starbucks coffee shop as a city street is reflected walk out of a Starbucks coffee shop in Burbank, Calif. On Thursday, Aug. 15, the Commerce Department releases U.S. retail sales data for July. (AP Photo/Richard Vogel, File)</p>
                      </media-caption>
@@ -973,14 +973,14 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328187" />
-         <apcm:FirstCreated>2019-08-15T14:41:22Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:41:22Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:ce595bd0d5ff414f92036a174c4497bd</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>2</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: Adds details, analyst comments. With AP Photos.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:41:08Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:41:08Z</apnm:PublishingReleaseDateTime>
          <apnm:LegacyNewsManagement>
             <apnm:LegacyType>ANPA1312+NAA89-3</apnm:LegacyType>
             <apnm:LegacyManagementType Value="Lead">
@@ -990,10 +990,10 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:e03f01f019ea499890b2575edfd71d30</id>
+      <id>urn:publicid:ap.org:e03f01f019ea499890b2575edfd71d38</id>
       <title>AS--Hong Kong-Economy</title>
-      <updated>2019-08-15T14:41:25.614Z</updated>
-      <published>2019-08-15T14:41:13Z</published>
+      <updated>2019-10-07T14:41:25.614Z</updated>
+      <published>2019-10-07T14:41:13Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -1003,7 +1003,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T144113Z" />
+                  <date.issue norm="20191007T144113Z" />
                   <ed-msg info="Eds: Corrects that forecast was reduced to 0 to 1%, not to 0%. With AP Photos." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -1011,7 +1011,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">Hong Kong cuts taxes to shore up economy amid protests</hl1>
+                     <hl1 id="headline">CHARLIE Hong Kong cuts taxes to shore up economy amid protests</hl1>
                      <hl2 id="originalHeadline">Hong Kong cuts taxes to shore up economy amid protests</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -1029,17 +1029,17 @@
                      <media-metadata id="media-metadata-Format:f3a8e1b31ffd4c0ebfc05b7134d55b28" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:f3a8e1b31ffd4c0ebfc05b7134d55b28" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:f3a8e1b31ffd4c0ebfc05b7134d55b28" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:f3a8e1b31ffd4c0ebfc05b7134d55b28" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=f3a8e1b31ffd4c0ebfc05b7134d55b28&amp;iid=c5c9785263dc42b482f18d7c219a7d20&amp;rsn=0&amp;recordid=c5c9785263dc42b482f18d7c219a7d20&amp;filingId=93d1fc98c9b94b589d11a2ef30cd4394&amp;role=Main&amp;reldt=2019-08-15T10:40:33&amp;media=Photo&amp;sz=4223395&amp;dest=ak&amp;trF=TKMY102&amp;ofn=US_China_Trade_59448.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/f3a8e1b31ffd4c0ebfc05b7134d55b28.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOAiEQAMDP2EJY9mCh2MTG3vgBc8CSUCgXzwsWPF4L%2b5kpH%2fZIBgh99M4YQ2TDzI0rrkEgoYJai1qyEZVqNsolAlyKc%2bnneisMAN6Feex8eb7llfvjtpbW70NSFSn7PBqTw8XauQ0%2bX0c9%2fUvbGHW0GqOGSF8k%2bSla" height="2999" width="4500" coding="jpg" />
+                     <media-reference id="media-reference:f3a8e1b31ffd4c0ebfc05b7134d55b28" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=f3a8e1b31ffd4c0ebfc05b7134d55b28&amp;iid=c5c9785263dc42b482f18d7c219a7d20&amp;rsn=0&amp;recordid=c5c9785263dc42b482f18d7c219a7d20&amp;filingId=93d1fc98c9b94b589d11a2ef30cd4394&amp;role=Main&amp;reldt=2019-10-07T10:40:33&amp;media=Photo&amp;sz=4223395&amp;dest=ak&amp;trF=TKMY102&amp;ofn=US_China_Trade_59448.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/f3a8e1b31ffd4c0ebfc05b7134d55b28.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOAiEQAMDP2EJY9mCh2MTG3vgBc8CSUCgXzwsWPF4L%2b5kpH%2fZIBgh99M4YQ2TDzI0rrkEgoYJai1qyEZVqNsolAlyKc%2bnneisMAN6Feex8eb7llfvjtpbW70NSFSn7PBqTw8XauQ0%2bX0c9%2fUvbGHW0GqOGSF8k%2bSla" height="2999" width="4500" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:ad36f444c50b48aca31e33589484c895" name="OriginalFileName" value="US_China_Trade_59448.jpg" />
                      <media-metadata id="media-metadata-Format:ad36f444c50b48aca31e33589484c895" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:ad36f444c50b48aca31e33589484c895" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:ad36f444c50b48aca31e33589484c895" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:ad36f444c50b48aca31e33589484c895" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=ad36f444c50b48aca31e33589484c895&amp;iid=c5c9785263dc42b482f18d7c219a7d20&amp;rsn=0&amp;recordid=c5c9785263dc42b482f18d7c219a7d20&amp;filingId=93d1fc98c9b94b589d11a2ef30cd4394&amp;role=Preview&amp;reldt=2019-08-15T10:40:33&amp;media=Photo&amp;sz=77180&amp;dest=ak&amp;trF=TKMY102&amp;ofn=US_China_Trade_59448.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/ad36f444c50b48aca31e33589484c895.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCaKY%2bc3WGJhR1wApflIGSBVS1UGH56Ftz9pX%2fYYDAT0yTtjTAg2ShmcK%2fpORKo4syiKuaiM0BSii4kilZiczFEZALyLcux8e3%2faVubrkeuYz7MtvbW6yzE4OCRrZT35ej%2f75V%2fGyqiT1Zg0pPAD0r8ofg%3d%3d" height="341" width="512" coding="jpg" />
+                     <media-reference id="media-reference:ad36f444c50b48aca31e33589484c895" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=ad36f444c50b48aca31e33589484c895&amp;iid=c5c9785263dc42b482f18d7c219a7d20&amp;rsn=0&amp;recordid=c5c9785263dc42b482f18d7c219a7d20&amp;filingId=93d1fc98c9b94b589d11a2ef30cd4394&amp;role=Preview&amp;reldt=2019-10-07T10:40:33&amp;media=Photo&amp;sz=77180&amp;dest=ak&amp;trF=TKMY102&amp;ofn=US_China_Trade_59448.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/ad36f444c50b48aca31e33589484c895.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsCaKY%2bc3WGJhR1wApflIGSBVS1UGH56Ftz9pX%2fYYDAT0yTtjTAg2ShmcK%2fpORKo4syiKuaiM0BSii4kilZiczFEZALyLcux8e3%2faVubrkeuYz7MtvbW6yzE4OCRrZT35ej%2f75V%2fGyqiT1Zg0pPAD0r8ofg%3d%3d" height="341" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:da6556cc979a456abce7d4ad511de0f6" name="OriginalFileName" value="US_China_Trade_59448.jpg" />
                      <media-metadata id="media-metadata-Format:da6556cc979a456abce7d4ad511de0f6" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:da6556cc979a456abce7d4ad511de0f6" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:da6556cc979a456abce7d4ad511de0f6" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:da6556cc979a456abce7d4ad511de0f6" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=da6556cc979a456abce7d4ad511de0f6&amp;iid=c5c9785263dc42b482f18d7c219a7d20&amp;rsn=0&amp;recordid=c5c9785263dc42b482f18d7c219a7d20&amp;filingId=93d1fc98c9b94b589d11a2ef30cd4394&amp;role=Thumbnail&amp;reldt=2019-08-15T10:40:33&amp;media=Photo&amp;sz=12699&amp;dest=ak&amp;trF=TKMY102&amp;ofn=US_China_Trade_59448.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/da6556cc979a456abce7d4ad511de0f6.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOwjAMAMDPsKaKk9puBkss7IgPoDR2pQyQqqUqQx7Pwu3X7SsU2QNHSoTee%2bYw9VJFMyFSKS5xym5Eym4uxk7HrAig5hfqraoAAOHUj11u749tpb0eWWt7njYvZrr3owpjHEPo6ynX%2b7lc%2fqWuEocUhpgGSPwDIeMpag%3d%3d" height="83" width="125" coding="jpg" />
+                     <media-reference id="media-reference:da6556cc979a456abce7d4ad511de0f6" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=da6556cc979a456abce7d4ad511de0f6&amp;iid=c5c9785263dc42b482f18d7c219a7d20&amp;rsn=0&amp;recordid=c5c9785263dc42b482f18d7c219a7d20&amp;filingId=93d1fc98c9b94b589d11a2ef30cd4394&amp;role=Thumbnail&amp;reldt=2019-10-07T10:40:33&amp;media=Photo&amp;sz=12699&amp;dest=ak&amp;trF=TKMY102&amp;ofn=US_China_Trade_59448.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/da6556cc979a456abce7d4ad511de0f6.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzEOwjAMAMDPsKaKk9puBkss7IgPoDR2pQyQqqUqQx7Pwu3X7SsU2QNHSoTee%2bYw9VJFMyFSKS5xym5Eym4uxk7HrAig5hfqraoAAOHUj11u749tpb0eWWt7njYvZrr3owpjHEPo6ynX%2b7lc%2fqWuEocUhpgGSPwDIeMpag%3d%3d" height="83" width="125" coding="jpg" />
                      <media-caption id="media-caption:c5c9785263dc42b482f18d7c219a7d20">
                         <p>FILE - In this July 4, 2019, photo, Chinese magazines with front covers featuring Chinese President Xi Jinping and U.S. President Donald Trump on trade war are placed for sale at a roadside bookstand in Hong Kong. China on Thursday, Aug. 15, 2019 threatened retaliation if Washington steps up their war over trade and technology by going ahead with planned Sept. 1 tariff hikes on additional Chinese imports. (AP Photo/Andy Wong, File)</p>
                      </media-caption>
@@ -1135,14 +1135,14 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70328156" />
-         <apcm:FirstCreated>2019-08-15T14:41:13Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:41:13Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:f8329eccdc9f43ad89d0866093dd002c</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>2</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: Corrects that forecast was reduced to 0 to 1%, not to 0%. With AP Photos.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:40:54Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:40:54Z</apnm:PublishingReleaseDateTime>
          <apnm:LegacyNewsManagement>
             <apnm:LegacyType>ANPA1312+NAA89-3</apnm:LegacyType>
             <apnm:LegacyManagementType Value="Lead">
@@ -1152,10 +1152,10 @@
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:43e4d87de0024fb6a2796949b71e44e4</id>
+      <id>urn:publicid:ap.org:43e4d87de0024fb6a2796949b71e44e8</id>
       <title>EU--Russia-Venezuela</title>
-      <updated>2019-08-15T14:38:18.717Z</updated>
-      <published>2019-08-15T14:38:12Z</published>
+      <updated>2019-10-07T14:38:18.717Z</updated>
+      <published>2019-10-07T14:38:12Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -1165,7 +1165,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T143812Z" />
+                  <date.issue norm="20191007T143812Z" />
                   <ed-msg info="Eds: APNewsNow." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -1173,7 +1173,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">Russian and Venezuelan defense chiefs meet to discuss ties</hl1>
+                     <hl1 id="headline">CHARLIE Russian and Venezuelan defense chiefs meet to discuss ties</hl1>
                      <hl2 id="originalHeadline">Russian and Venezuelan defense chiefs meet to discuss ties</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -1249,21 +1249,21 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327904" />
-         <apcm:FirstCreated>2019-08-15T14:38:12Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:38:12Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:c20372a59c3f46c2a0ad42f685ce2ebe</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>0</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: APNewsNow.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:38:01Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:38:01Z</apnm:PublishingReleaseDateTime>
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:39b21006011f4316b6f03b9d6eb0389a</id>
+      <id>urn:publicid:ap.org:39b21006011f4316b6f03b9d6eb03898</id>
       <title>Financial-Markets</title>
-      <updated>2019-08-15T14:34:47.790Z</updated>
-      <published>2019-08-15T14:34:37Z</published>
+      <updated>2019-10-07T14:34:47.790Z</updated>
+      <published>2019-10-07T14:34:37Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -1273,7 +1273,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T143437Z" />
+                  <date.issue norm="20191007T143437Z" />
                   <ed-msg info="Eds: Updates trading. With AP Photos." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -1281,7 +1281,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">US stocks steady after plunge, but caution still reigns</hl1>
+                     <hl1 id="headline">CHARLIE US stocks steady after plunge, but caution still reigns</hl1>
                      <hl2 id="originalHeadline">US stocks steady after plunge, but caution still reigns</hl2>
                   </hedline>
                   <byline>
@@ -1303,17 +1303,17 @@
                      <media-metadata id="media-metadata-Format:fb9439bb598742379e40d6f493bb5a27" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:fb9439bb598742379e40d6f493bb5a27" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:fb9439bb598742379e40d6f493bb5a27" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:fb9439bb598742379e40d6f493bb5a27" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=fb9439bb598742379e40d6f493bb5a27&amp;iid=d54793adcbfc4119af5e7da2f644d614&amp;rsn=0&amp;recordid=d54793adcbfc4119af5e7da2f644d614&amp;filingId=aa1df67bbedd429fac5abc006f00bd15&amp;role=Main&amp;reldt=2019-08-15T13:00:35&amp;media=Photo&amp;sz=2420578&amp;dest=ak&amp;trF=NYJK401&amp;ofn=Financial_Markets_Wall_Street_00896.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/fb9439bb598742379e40d6f493bb5a27.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428%2C42437&amp;authToken=eNoty7EOwiAQANCfcYUABxw3XOLibvwB0yuQMChNa4MDH%2b%2fi298sX46AxiJEisEYE1JKc21chTyQiAqUUHkHqKh4o3KsnkAkLA5nb5mttTGkeR58e3%2fKvvbXY8mtP0eRWko%2b5tkYA3jn5jb4eh%2f18i9tY9DkNJC2hD%2fTiiiR" alternate-text="James Denaro, Anthony Rinaldi" height="3840" width="5760" coding="jpg" />
+                     <media-reference id="media-reference:fb9439bb598742379e40d6f493bb5a27" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=fb9439bb598742379e40d6f493bb5a27&amp;iid=d54793adcbfc4119af5e7da2f644d614&amp;rsn=0&amp;recordid=d54793adcbfc4119af5e7da2f644d614&amp;filingId=aa1df67bbedd429fac5abc006f00bd15&amp;role=Main&amp;reldt=2019-10-07T13:00:35&amp;media=Photo&amp;sz=2420578&amp;dest=ak&amp;trF=NYJK401&amp;ofn=Financial_Markets_Wall_Street_00896.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/fb9439bb598742379e40d6f493bb5a27.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428%2C42437&amp;authToken=eNoty7EOwiAQANCfcYUABxw3XOLibvwB0yuQMChNa4MDH%2b%2fi298sX46AxiJEisEYE1JKc21chTyQiAqUUHkHqKh4o3KsnkAkLA5nb5mttTGkeR58e3%2fKvvbXY8mtP0eRWko%2b5tkYA3jn5jb4eh%2f18i9tY9DkNJC2hD%2fTiiiR" alternate-text="James Denaro, Anthony Rinaldi" height="3840" width="5760" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:12d23ec04656410597bf9f2f7a27ca14" name="OriginalFileName" value="Financial_Markets_Wall_Street_00896.jpg" />
                      <media-metadata id="media-metadata-Format:12d23ec04656410597bf9f2f7a27ca14" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:12d23ec04656410597bf9f2f7a27ca14" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:12d23ec04656410597bf9f2f7a27ca14" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:12d23ec04656410597bf9f2f7a27ca14" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=12d23ec04656410597bf9f2f7a27ca14&amp;iid=d54793adcbfc4119af5e7da2f644d614&amp;rsn=0&amp;recordid=d54793adcbfc4119af5e7da2f644d614&amp;filingId=aa1df67bbedd429fac5abc006f00bd15&amp;role=Preview&amp;reldt=2019-08-15T13:00:35&amp;media=Photo&amp;sz=73732&amp;dest=ak&amp;trF=NYJK401&amp;ofn=Financial_Markets_Wall_Street_00896.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/12d23ec04656410597bf9f2f7a27ca14.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428%2C42437&amp;authToken=eNotyzsOAiEQANDL2EKYgWGgmMTG3ngBw%2fJJKJTNrpu14PA2vv7N%2bhVv2QBbHz0ZYyiEMHMXwIK2ZqOcJ68cGFKRl6Ziw8YJOSdwc%2fQiAOApzGOX2%2ftTtzxej1T6eJ51abWWfR5dmKxDnOsp1%2fvZLv%2fSV7E6orZRQ%2bQfw9oodg%3d%3d" alternate-text="James Denaro, Anthony Rinaldi" height="341" width="512" coding="jpg" />
+                     <media-reference id="media-reference:12d23ec04656410597bf9f2f7a27ca14" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=12d23ec04656410597bf9f2f7a27ca14&amp;iid=d54793adcbfc4119af5e7da2f644d614&amp;rsn=0&amp;recordid=d54793adcbfc4119af5e7da2f644d614&amp;filingId=aa1df67bbedd429fac5abc006f00bd15&amp;role=Preview&amp;reldt=2019-10-07T13:00:35&amp;media=Photo&amp;sz=73732&amp;dest=ak&amp;trF=NYJK401&amp;ofn=Financial_Markets_Wall_Street_00896.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/12d23ec04656410597bf9f2f7a27ca14.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428%2C42437&amp;authToken=eNotyzsOAiEQANDL2EKYgWGgmMTG3ngBw%2fJJKJTNrpu14PA2vv7N%2bhVv2QBbHz0ZYyiEMHMXwIK2ZqOcJ68cGFKRl6Ziw8YJOSdwc%2fQiAOApzGOX2%2ftTtzxej1T6eJ51abWWfR5dmKxDnOsp1%2fvZLv%2fSV7E6orZRQ%2bQfw9oodg%3d%3d" alternate-text="James Denaro, Anthony Rinaldi" height="341" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:e42e0a00a7a048d9af452a98b6a842b5" name="OriginalFileName" value="Financial_Markets_Wall_Street_00896.jpg" />
                      <media-metadata id="media-metadata-Format:e42e0a00a7a048d9af452a98b6a842b5" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:e42e0a00a7a048d9af452a98b6a842b5" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:e42e0a00a7a048d9af452a98b6a842b5" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:e42e0a00a7a048d9af452a98b6a842b5" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=e42e0a00a7a048d9af452a98b6a842b5&amp;iid=d54793adcbfc4119af5e7da2f644d614&amp;rsn=0&amp;recordid=d54793adcbfc4119af5e7da2f644d614&amp;filingId=aa1df67bbedd429fac5abc006f00bd15&amp;role=Thumbnail&amp;reldt=2019-08-15T13:00:35&amp;media=Photo&amp;sz=21381&amp;dest=ak&amp;trF=NYJK401&amp;ofn=Financial_Markets_Wall_Street_00896.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/e42e0a00a7a048d9af452a98b6a842b5.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428%2C42437&amp;authToken=eNotyzsOwjAMANDLsCZy%2fs5giYUdcQHkNI6UAVK1VGXI4Vl4%2b5vypegSmORijgEAAiLOpZN4K8AAihOD8liz4uaDspyxREZvS5ijVzLGxIDz2On2%2fsi2jNeDax%2fPU0oTqfs8OqXgvLVzPel6P9vlX%2fpKTmerXdYmpx%2friyjP" alternate-text="James Denaro, Anthony Rinaldi" height="83" width="125" coding="jpg" />
+                     <media-reference id="media-reference:e42e0a00a7a048d9af452a98b6a842b5" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=e42e0a00a7a048d9af452a98b6a842b5&amp;iid=d54793adcbfc4119af5e7da2f644d614&amp;rsn=0&amp;recordid=d54793adcbfc4119af5e7da2f644d614&amp;filingId=aa1df67bbedd429fac5abc006f00bd15&amp;role=Thumbnail&amp;reldt=2019-10-07T13:00:35&amp;media=Photo&amp;sz=21381&amp;dest=ak&amp;trF=NYJK401&amp;ofn=Financial_Markets_Wall_Street_00896.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/e42e0a00a7a048d9af452a98b6a842b5.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428%2C42437&amp;authToken=eNotyzsOwjAMANDLsCZy%2fs5giYUdcQHkNI6UAVK1VGXI4Vl4%2b5vypegSmORijgEAAiLOpZN4K8AAihOD8liz4uaDspyxREZvS5ijVzLGxIDz2On2%2fsi2jNeDax%2fPU0oTqfs8OqXgvLVzPel6P9vlX%2fpKTmerXdYmpx%2friyjP" alternate-text="James Denaro, Anthony Rinaldi" height="83" width="125" coding="jpg" />
                      <media-caption id="media-caption:d54793adcbfc4119af5e7da2f644d614">
                         <p>FILE - In this Aug. 13, 2019, file photo specialists James Denaro, left, and Anthony Rinaldi work on the floor of the New York Stock Exchange. The U.S. stock market opens at 9:30 a.m. EDT on Thursday, Aug. 15. (AP Photo/Richard Drew, File)</p>
                      </media-caption>
@@ -1403,21 +1403,21 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42437" Value="AP Top News - General - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327639" />
-         <apcm:FirstCreated>2019-08-15T14:34:38Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:34:38Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:5fa760bc103c4c4a97fcdeeba2e41c42</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>1</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: Updates trading. With AP Photos.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:34:32Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:34:32Z</apnm:PublishingReleaseDateTime>
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:0317d1cfc3a34e1ca4bb339ebc33d473</id>
+      <id>urn:publicid:ap.org:0317d1cfc3a34e1ca4bb339ebc33d478</id>
       <title>EU--Germany-Politics</title>
-      <updated>2019-08-15T14:34:15.691Z</updated>
-      <published>2019-08-15T14:34:10Z</published>
+      <updated>2019-10-07T14:34:15.691Z</updated>
+      <published>2019-10-07T14:34:10Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -1427,7 +1427,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T143410Z" />
+                  <date.issue norm="20191007T143410Z" />
                   <ed-msg info="Eds: APNewsNow." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -1435,7 +1435,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">German minister offers to resign if university revokes title</hl1>
+                     <hl1 id="headline">CHARLIE German minister offers to resign if university revokes title</hl1>
                      <hl2 id="originalHeadline">German minister offers to resign if university revokes title</hl2>
                   </hedline>
                   <distributor>The Associated Press</distributor>
@@ -1500,21 +1500,21 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42430" Value="AP Top News - International - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327605" />
-         <apcm:FirstCreated>2019-08-15T14:34:10Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:34:10Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:1c8ff62397924fe38c0b46e58799c922</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>0</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: APNewsNow.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:33:58Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:33:58Z</apnm:PublishingReleaseDateTime>
       </apnm:NewsManagement>
    </entry>
    <entry>
-      <id>urn:publicid:ap.org:d5c2ccec3df5485fb8d918cdf6209274</id>
+      <id>urn:publicid:ap.org:d5c2ccec3df5485fb8d918cdf6209278</id>
       <title>APFN-US--Industrial Production</title>
-      <updated>2019-08-15T14:29:56.679Z</updated>
-      <published>2019-08-15T14:29:49Z</published>
+      <updated>2019-10-07T14:29:56.679Z</updated>
+      <published>2019-10-07T14:29:49Z</published>
       <author>
          <name>AP</name>
       </author>
@@ -1524,7 +1524,7 @@
             <head>
                <docdata>
                   <doc-id regsrc="AP" />
-                  <date.issue norm="20190815T142949Z" />
+                  <date.issue norm="20191007T142949Z" />
                   <ed-msg info="Eds: Adds quote. With AP Photos." />
                   <doc.copyright holder="AP" year="2019" />
                </docdata>
@@ -1532,7 +1532,7 @@
             <body>
                <body.head>
                   <hedline>
-                     <hl1 id="headline">US industrial output fell 0.2% in July as factories struggle</hl1>
+                     <hl1 id="headline">CHARLIE US industrial output fell 0.2% in July as factories struggle</hl1>
                      <hl2 id="originalHeadline">US industrial output fell 0.2% in July as factories struggle</hl2>
                   </hedline>
                   <byline>
@@ -1554,17 +1554,17 @@
                      <media-metadata id="media-metadata-Format:6fa5b958e2e541a8a14297f9acab4991" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:6fa5b958e2e541a8a14297f9acab4991" name="Role" value="Main" />
                      <media-metadata id="media-metadata-IngestLink:6fa5b958e2e541a8a14297f9acab4991" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:6fa5b958e2e541a8a14297f9acab4991" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=6fa5b958e2e541a8a14297f9acab4991&amp;iid=a2dc75d6874f4be1a775c07f6cfa4000&amp;rsn=0&amp;recordid=a2dc75d6874f4be1a775c07f6cfa4000&amp;filingId=ff3975e8ae8149d3a2aa8e618c5225dd&amp;role=Main&amp;reldt=2019-08-15T12:30:34&amp;media=Photo&amp;sz=5674902&amp;dest=ak&amp;trF=NYBZ481&amp;ofn=Industrial_Production_95240.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/6fa5b958e2e541a8a14297f9acab4991.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EIY%2flNMYmNvvIDhMyQUymbXDRYc3sbXv8Vf8iYoCMajd0opq0Cv0sm35DK6KFizExZSFAmsFhgappKyRYQ1eiUA8C6u86Db%2b8N7Ga9Hqn08J%2bfGXI91dgrOWK3XNul6n%2b3yL30jI1FLgxIw%2fADqfyjS" height="2340" width="3510" coding="jpg" />
+                     <media-reference id="media-reference:6fa5b958e2e541a8a14297f9acab4991" mime-type="image/jpeg" name="AP Photo" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=6fa5b958e2e541a8a14297f9acab4991&amp;iid=a2dc75d6874f4be1a775c07f6cfa4000&amp;rsn=0&amp;recordid=a2dc75d6874f4be1a775c07f6cfa4000&amp;filingId=ff3975e8ae8149d3a2aa8e618c5225dd&amp;role=Main&amp;reldt=2019-10-07T12:30:34&amp;media=Photo&amp;sz=5674902&amp;dest=ak&amp;trF=NYBZ481&amp;ofn=Industrial_Production_95240.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/6fa5b958e2e541a8a14297f9acab4991.jpg&amp;s3Key=eNorSy0qzszPK9YvTk0uLUpN0c9NzMzTLTMw0MsqSAcAq80K2g%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOAiEQANDL2EIY%2flNMYmNvvIDhMyQUymbXDRYc3sbXv8Vf8iYoCMajd0opq0Cv0sm35DK6KFizExZSFAmsFhgappKyRYQ1eiUA8C6u86Db%2b8N7Ga9Hqn08J%2bfGXI91dgrOWK3XNul6n%2b3yL30jI1FLgxIw%2fADqfyjS" height="2340" width="3510" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:1a7442fd34884371bb964f47111d517b" name="OriginalFileName" value="Industrial_Production_95240.jpg" />
                      <media-metadata id="media-metadata-Format:1a7442fd34884371bb964f47111d517b" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:1a7442fd34884371bb964f47111d517b" name="Role" value="Preview" />
                      <media-metadata id="media-metadata-IngestLink:1a7442fd34884371bb964f47111d517b" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:1a7442fd34884371bb964f47111d517b" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=1a7442fd34884371bb964f47111d517b&amp;iid=a2dc75d6874f4be1a775c07f6cfa4000&amp;rsn=0&amp;recordid=a2dc75d6874f4be1a775c07f6cfa4000&amp;filingId=ff3975e8ae8149d3a2aa8e618c5225dd&amp;role=Preview&amp;reldt=2019-08-15T12:30:34&amp;media=Photo&amp;sz=92527&amp;dest=ak&amp;trF=NYBZ481&amp;ofn=Industrial_Production_95240.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/1a7442fd34884371bb964f47111d517b.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyzEOAiEQAMDP2EJYdmGh2MTG3vgBcxyQUCgXzwsWPF4Lyylmlo94ZAOMPnpnjCEDdq5NYGEiW7NCCkERMqiUoldUiQEgO%2bA0e8vyg3dhHrtcnu%2fyWvvjtuTW76OkWkre59GEHZK1cxtyvo56%2bpe2CepoNUYNkb%2bcmSgF" height="341" width="512" coding="jpg" />
+                     <media-reference id="media-reference:1a7442fd34884371bb964f47111d517b" mime-type="image/jpeg" name="AP Preview Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=1a7442fd34884371bb964f47111d517b&amp;iid=a2dc75d6874f4be1a775c07f6cfa4000&amp;rsn=0&amp;recordid=a2dc75d6874f4be1a775c07f6cfa4000&amp;filingId=ff3975e8ae8149d3a2aa8e618c5225dd&amp;role=Preview&amp;reldt=2019-10-07T12:30:34&amp;media=Photo&amp;sz=92527&amp;dest=ak&amp;trF=NYBZ481&amp;ofn=Industrial_Production_95240.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/1a7442fd34884371bb964f47111d517b.jpg&amp;s3Key=eNorSy0qzszPK9YvKEoty0wt1y0zMNDLKkgHAHg%2bCR0%3d&amp;entid=42428&amp;authToken=eNotyzEOAiEQAMDP2EJYdmGh2MTG3vgBcxyQUCgXzwsWPF4Lyylmlo94ZAOMPnpnjCEDdq5NYGEiW7NCCkERMqiUoldUiQEgO%2bA0e8vyg3dhHrtcnu%2fyWvvjtuTW76OkWkre59GEHZK1cxtyvo56%2bpe2CepoNUYNkb%2bcmSgF" height="341" width="512" coding="jpg" />
                      <media-metadata id="media-metadata-OriginalFileName:b0f72809f22a46319a92e4d4bde9514d" name="OriginalFileName" value="Industrial_Production_95240.jpg" />
                      <media-metadata id="media-metadata-Format:b0f72809f22a46319a92e4d4bde9514d" name="Format" value="JPEG Baseline" />
                      <media-metadata id="media-metadata-Role:b0f72809f22a46319a92e4d4bde9514d" name="Role" value="Thumbnail" />
                      <media-metadata id="media-metadata-IngestLink:b0f72809f22a46319a92e4d4bde9514d" name="IngestLink" value="True" />
-                     <media-reference id="media-reference:b0f72809f22a46319a92e4d4bde9514d" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=b0f72809f22a46319a92e4d4bde9514d&amp;iid=a2dc75d6874f4be1a775c07f6cfa4000&amp;rsn=0&amp;recordid=a2dc75d6874f4be1a775c07f6cfa4000&amp;filingId=ff3975e8ae8149d3a2aa8e618c5225dd&amp;role=Thumbnail&amp;reldt=2019-08-15T12:30:34&amp;media=Photo&amp;sz=30753&amp;dest=ak&amp;trF=NYBZ481&amp;ofn=Industrial_Production_95240.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/b0f72809f22a46319a92e4d4bde9514d.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsKaynV89WGJhR1wANY0jZYBULVUYcngW3v6GfiXYCBht4OABwAHSWKskKJFmYFOIFuOCRcMLk1GXXcrKHl0erWZBxODncR5ye390X9vrseTanl1TUc3HOKtEbx3R2Lpc771c%2fqVuYiemyfKEHH%2fPLiiX" height="83" width="125" coding="jpg" />
+                     <media-reference id="media-reference:b0f72809f22a46319a92e4d4bde9514d" mime-type="image/jpeg" name="AP Thumbnail Image" source="http://syndication.ap.org/AP.Distro.ContentBroker2/ContentBroker.aspx?contentid=b0f72809f22a46319a92e4d4bde9514d&amp;iid=a2dc75d6874f4be1a775c07f6cfa4000&amp;rsn=0&amp;recordid=a2dc75d6874f4be1a775c07f6cfa4000&amp;filingId=ff3975e8ae8149d3a2aa8e618c5225dd&amp;role=Thumbnail&amp;reldt=2019-10-07T12:30:34&amp;media=Photo&amp;sz=30753&amp;dest=ak&amp;trF=NYBZ481&amp;ofn=Industrial_Production_95240.jpg&amp;fmt=jpg&amp;relativeUrl=jpg/2019/201908/15/b0f72809f22a46319a92e4d4bde9514d.jpg&amp;s3Key=eNorSy0qzszPK9YvySjNTcpLzMzRLTMw0MsqSAcAjK8J3w%3d%3d&amp;entid=42428&amp;authToken=eNotyzsOwjAMANDLsKaynV89WGJhR1wANY0jZYBULVUYcngW3v6GfiXYCBht4OABwAHSWKskKJFmYFOIFuOCRcMLk1GXXcrKHl0erWZBxODncR5ye390X9vrseTanl1TUc3HOKtEbx3R2Lpc771c%2fqVuYiemyfKEHH%2fPLiiX" height="83" width="125" coding="jpg" />
                      <media-caption id="media-caption:a2dc75d6874f4be1a775c07f6cfa4000">
                         <p>FILE - In this June 24, 2019, file photo Ford's employees work on a Lincoln Aviator line at Ford's Chicago Assembly Plant in Chicago's Hegewisch neighborhood. On Thursday, Aug. 15, the Federal Reserve reports on U.S. industrial production for July. (AP Photo/Amr Alfiky, File)</p>
                      </media-caption>
@@ -1633,14 +1633,14 @@
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:package:100518" Value="AP Top News Package" />
          <apcm:Property Name="EntitlementMatch" Id="urn:publicid:ap.org:product:42428" Value="AP Top News - Business - Stories" />
          <apcm:Property Name="SequenceNumber" Value="InSequence" Id="70327262" />
-         <apcm:FirstCreated>2019-08-15T14:29:49Z</apcm:FirstCreated>
+         <apcm:FirstCreated>2019-10-06T14:29:49Z</apcm:FirstCreated>
       </apcm:ContentMetadata>
       <apnm:NewsManagement>
          <apnm:ManagementId>urn:publicid:ap.org:fc54d8ad79cf42e18fd583f032d1fc28</apnm:ManagementId>
          <apnm:ManagementSequenceNumber>2</apnm:ManagementSequenceNumber>
          <apnm:PublishingStatus>Usable</apnm:PublishingStatus>
          <apnm:PublishingSpecialInstructions>Eds: Adds quote. With AP Photos.</apnm:PublishingSpecialInstructions>
-         <apnm:PublishingReleaseDateTime>2019-08-15T14:29:42Z</apnm:PublishingReleaseDateTime>
+         <apnm:PublishingReleaseDateTime>2019-10-07T14:29:42Z</apnm:PublishingReleaseDateTime>
          <apnm:LegacyNewsManagement>
             <apnm:LegacyType>ANPA1312+NAA89-3</apnm:LegacyType>
             <apnm:LegacyManagementType Value="Lead">
